@@ -1,0 +1,48 @@
+2023-05-04 15:45:28,146 TRACE [main] Hello from Log4j 2
+2023-05-04 15:45:28,148 DEBUG [main] Hello from Log4j 2
+2023-05-04 15:45:28,148 INFO [main] Hello from Log4j 2
+2023-05-04 15:45:28,148 WARN [main] Hello from Log4j 2
+2023-05-04 15:45:28,148 ERROR [main] Hello from Log4j 2
+2023-05-04 15:45:28,149 FATAL [main] Hello from Log4j 2
+2023-05-04 15:45:28,149 INFO [main] Ciao da stampa altri log...
+2023-05-04 15:45:28,157 INFO [main] Autore: Luigi Pirandello
+2023-05-04 15:45:28,158 WARN [main] Titolo: Il fu Mattia Pascal
+2023-05-04 15:45:28,158 INFO [main] Autore: Italo Svevo
+2023-05-04 15:45:28,158 WARN [main] Titolo: Una vita
+2023-05-04 15:45:28,159 DEBUG [main] File CSV creato correttamente
+2023-05-04 15:45:28,162 DEBUG [main] Provo a leggere un file excel
+2023-05-04 15:45:28,597 INFO [main] Valore Ciao
+2023-05-04 15:45:28,597 INFO [main] Valore Sono
+2023-05-04 15:45:28,597 INFO [main] Valore un
+2023-05-04 15:45:28,597 INFO [main] Valore esempio
+2023-05-04 15:45:28,598 INFO [main] Valore di 
+2023-05-04 15:45:28,598 INFO [main] Valore test
+2023-05-04 15:45:28,972 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-04 15:45:28,973 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-04 15:54:42,172 TRACE [main] Hello from Log4j 2
+2023-05-04 15:54:42,175 DEBUG [main] Hello from Log4j 2
+2023-05-04 15:54:42,175 INFO [main] Hello from Log4j 2
+2023-05-04 15:54:42,176 WARN [main] Hello from Log4j 2
+2023-05-04 15:54:42,176 ERROR [main] Hello from Log4j 2
+2023-05-04 15:54:42,176 FATAL [main] Hello from Log4j 2
+2023-05-04 15:54:42,176 INFO [main] Ciao da stampa altri log...
+2023-05-04 16:00:53,456 TRACE [main] Hello from Log4j 2
+2023-05-04 16:00:53,458 DEBUG [main] Hello from Log4j 2
+2023-05-04 16:00:53,458 INFO [main] Hello from Log4j 2
+2023-05-04 16:00:53,458 WARN [main] Hello from Log4j 2
+2023-05-04 16:00:53,458 ERROR [main] Hello from Log4j 2
+2023-05-04 16:00:53,458 FATAL [main] Hello from Log4j 2
+2023-05-04 16:00:53,459 INFO [main] Ciao da stampa altri log...
+2023-05-04 16:02:44,815 TRACE [main] Hello from Log4j 2
+2023-05-04 16:02:44,817 DEBUG [main] Hello from Log4j 2
+2023-05-04 16:02:44,817 INFO [main] Hello from Log4j 2
+2023-05-04 16:02:44,817 WARN [main] Hello from Log4j 2
+2023-05-04 16:02:44,817 ERROR [main] Hello from Log4j 2
+2023-05-04 16:02:44,817 FATAL [main] Hello from Log4j 2
+2023-05-04 16:02:44,818 INFO [main] Ciao
+2023-05-04 16:02:44,818 INFO [main] M
+2023-05-04 16:02:44,818 INFO [main] O
+2023-05-04 16:02:44,818 INFO [main] N
+2023-05-04 16:02:44,818 INFO [main] D
+2023-05-04 16:02:44,818 INFO [main] O
+2023-05-04 16:02:44,818 INFO [main] !
