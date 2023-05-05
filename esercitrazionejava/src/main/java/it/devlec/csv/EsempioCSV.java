@@ -20,6 +20,9 @@ public class EsempioCSV {
             put("Dante Aligheri", "La divina commedia");
             put("Giacomo Leopardi", "L'infinito");
             put("Eugenio Montale", "Ossi di seppia");
+            put("Giovanni Pascoli", "Canti di Castelveccchio");
+            put("Luigi Pirandello", "Uno, nessuno e centomila");
+            put("Giuseppe Ungaretti", "Allegria di naufragi");
         }
     };
     public EsempioCSV() {
@@ -36,7 +39,7 @@ public class EsempioCSV {
         try {
             in = new FileReader(mieiAutoriCSVPath);
             // Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(in);
-            Iterable<CSVRecord> records = CSVFormat.DEFAULT.builder().setSkipHeaderRecord(true)
+            Iterable<CSVRecord> records = CSVFormat.DEFAULT.builder().setSkipHeaderRecord(false)
                     .setHeader(INTESTAZIONE).build().parse(in);
             for (CSVRecord record : records) {
                 String autore = record.get(INTESTAZIONE[0]);
@@ -68,7 +71,7 @@ public class EsempioCSV {
             if(fileCreato){
                 logger.debug("File CSV creato correttamente");
             }
-            FileWriter out = new FileWriter(mieiAutoriCSVPath);
+            FileWriter out = new FileWriter(csvFile);
             try (CSVPrinter printer = new CSVPrinter(out, CSVFormat.DEFAULT)) {
                 MIEI_AUTORI.forEach((author, title) -> {
                     try {

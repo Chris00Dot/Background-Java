@@ -53,16 +53,17 @@ public class EsempioExcel {
         String mioExcel = parent.getAbsolutePath() + File.separator + "mioExcelGenerato.xlsx";
         Workbook workbook = new XSSFWorkbook();
         Sheet sheet = workbook.createSheet("Persona");
-        sheet.setColumnWidth(0, 6000);
-        sheet.setColumnWidth(1, 4000);
+        sheet.setColumnWidth(0, 10000);
+        sheet.setColumnWidth(1, 10000);
+        sheet.setColumnWidth(2, 10000);
 
         Row header = sheet.createRow(0);
         CellStyle headerStyle = workbook.createCellStyle();
-        headerStyle.setFillForegroundColor(IndexedColors.LIGHT_BLUE.getIndex());
+        headerStyle.setFillForegroundColor(IndexedColors.ROYAL_BLUE.getIndex());
         headerStyle.setFillPattern(FillPatternType.SOLID_FOREGROUND);
 
         XSSFFont font = ((XSSFWorkbook) workbook).createFont();
-        font.setFontName("Arial");
+        font.setFontName("Serif");
         font.setFontHeightInPoints((short) 16);
         font.setBold(true);
         headerStyle.setFont(font);
@@ -73,20 +74,39 @@ public class EsempioExcel {
         headerCell = header.createCell(1);
         headerCell.setCellValue("Eta");
         headerCell.setCellStyle(headerStyle);
+        headerCell = header.createCell(2);
+        headerCell.setCellValue("Data di nascita");
+        headerCell.setCellStyle(headerStyle);
+
 
         CellStyle style = workbook.createCellStyle();
         style.setWrapText(true);
+        style.setAlignment(HorizontalAlignment.CENTER);
 
-        Row row = sheet.createRow(2);
+        Row row = sheet.createRow(1);
         Cell cell = row.createCell(0);
-        cell.setCellValue("Mario Rossi");
+        cell.setCellValue("Giuseppe Verdi");
         cell.setCellStyle(style);
-
         cell = row.createCell(1);
-        cell.setCellValue(20);
+        cell.setCellValue(60);
         cell.setCellStyle(style);
-        File currDir = new File(".");
+        cell = row.createCell(2);
+        cell.setCellValue("26/02/1963");
+        cell.setCellStyle(style);
 
+        row = sheet.createRow(2);
+
+        cell = row.createCell(0);
+        cell.setCellValue("Marco Rossi");
+        cell.setCellStyle(style);
+        cell = row.createCell(1);
+        cell.setCellValue(30);
+        cell.setCellStyle(style);
+        cell = row.createCell(2);
+        cell.setCellValue("26/04/1993");
+        cell.setCellStyle(style);
+
+        File currDir = new File(".");
 
         FileOutputStream outputStream = null;
         try {

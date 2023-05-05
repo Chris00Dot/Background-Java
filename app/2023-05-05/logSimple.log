@@ -1,0 +1,2241 @@
+2023-05-05 10:17:36,978 TRACE [main] Hello from Log4j 2
+2023-05-05 10:17:36,981 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:17:36,981 INFO [main] Hello from Log4j 2
+2023-05-05 10:17:36,981 WARN [main] Hello from Log4j 2
+2023-05-05 10:17:36,981 ERROR [main] Hello from Log4j 2
+2023-05-05 10:17:36,981 FATAL [main] Hello from Log4j 2
+2023-05-05 10:17:36,982 INFO [main] Ciao
+2023-05-05 10:17:36,982 INFO [main] M
+2023-05-05 10:17:36,982 INFO [main] O
+2023-05-05 10:17:36,982 INFO [main] N
+2023-05-05 10:17:36,982 INFO [main] D
+2023-05-05 10:17:36,982 INFO [main] O
+2023-05-05 10:17:36,982 INFO [main] !
+2023-05-05 10:17:36,983 FATAL [main] Addizione: 55
+2023-05-05 10:17:36,990 INFO [main] Autore: Luigi Pirandello
+2023-05-05 10:17:36,991 WARN [main] Titolo: Il fu Mattia Pascal
+2023-05-05 10:17:36,991 INFO [main] Autore: Italo Svevo
+2023-05-05 10:17:36,991 WARN [main] Titolo: Una vita
+2023-05-05 10:17:36,992 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:17:36,995 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:17:37,561 INFO [main] Valore Ciao
+2023-05-05 10:17:37,561 INFO [main] Valore Sono
+2023-05-05 10:17:37,561 INFO [main] Valore un
+2023-05-05 10:17:37,561 INFO [main] Valore esempio
+2023-05-05 10:17:37,561 INFO [main] Valore di 
+2023-05-05 10:17:37,562 INFO [main] Valore test
+2023-05-05 10:17:37,966 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:17:37,967 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:19:00,204 TRACE [main] Hello from Log4j 2
+2023-05-05 10:19:00,206 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:19:00,206 INFO [main] Hello from Log4j 2
+2023-05-05 10:19:00,206 WARN [main] Hello from Log4j 2
+2023-05-05 10:19:00,206 ERROR [main] Hello from Log4j 2
+2023-05-05 10:19:00,207 FATAL [main] Hello from Log4j 2
+2023-05-05 10:19:00,207 INFO [main] Ciao
+2023-05-05 10:19:00,207 INFO [main] M
+2023-05-05 10:19:00,207 INFO [main] O
+2023-05-05 10:19:00,207 INFO [main] N
+2023-05-05 10:19:00,208 INFO [main] D
+2023-05-05 10:19:00,208 INFO [main] O
+2023-05-05 10:19:00,208 INFO [main] !
+2023-05-05 10:19:00,210 FATAL [main] Addizione tra 5 e 50: 55
+2023-05-05 10:19:00,219 INFO [main] Autore: Dante Aligheri
+2023-05-05 10:19:00,219 WARN [main] Titolo: La divina commedia
+2023-05-05 10:19:00,220 INFO [main] Autore: Eugenio Montale
+2023-05-05 10:19:00,220 WARN [main] Titolo: Ossi di seppia
+2023-05-05 10:19:00,220 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 10:19:00,221 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:19:00,224 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:19:00,667 INFO [main] Valore Ciao
+2023-05-05 10:19:00,668 INFO [main] Valore Sono
+2023-05-05 10:19:00,668 INFO [main] Valore un
+2023-05-05 10:19:00,668 INFO [main] Valore esempio
+2023-05-05 10:19:00,668 INFO [main] Valore di 
+2023-05-05 10:19:00,668 INFO [main] Valore test
+2023-05-05 10:19:01,010 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:19:01,011 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:20:31,743 TRACE [main] Hello from Log4j 2
+2023-05-05 10:20:31,745 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:20:31,745 INFO [main] Hello from Log4j 2
+2023-05-05 10:20:31,745 WARN [main] Hello from Log4j 2
+2023-05-05 10:20:31,745 ERROR [main] Hello from Log4j 2
+2023-05-05 10:20:31,745 FATAL [main] Hello from Log4j 2
+2023-05-05 10:20:31,746 INFO [main] Ciao
+2023-05-05 10:20:31,746 INFO [main] M
+2023-05-05 10:20:31,746 INFO [main] O
+2023-05-05 10:20:31,746 INFO [main] N
+2023-05-05 10:20:31,746 INFO [main] D
+2023-05-05 10:20:31,746 INFO [main] O
+2023-05-05 10:20:31,746 INFO [main] !
+2023-05-05 10:20:31,749 FATAL [main] Addizione tra 5 e 50 è 55
+2023-05-05 10:20:31,753 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 10:20:31,762 INFO [main] Autore: Dante Aligheri
+2023-05-05 10:20:31,762 WARN [main] Titolo: La divina commedia
+2023-05-05 10:20:31,762 INFO [main] Autore: Eugenio Montale
+2023-05-05 10:20:31,762 WARN [main] Titolo: Ossi di seppia
+2023-05-05 10:20:31,763 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 10:20:31,764 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:20:31,768 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:20:32,330 INFO [main] Valore Ciao
+2023-05-05 10:20:32,331 INFO [main] Valore Sono
+2023-05-05 10:20:32,331 INFO [main] Valore un
+2023-05-05 10:20:32,331 INFO [main] Valore esempio
+2023-05-05 10:20:32,331 INFO [main] Valore di 
+2023-05-05 10:20:32,332 INFO [main] Valore test
+2023-05-05 10:20:32,707 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:20:32,707 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:21:29,116 TRACE [main] Hello from Log4j 2
+2023-05-05 10:21:29,118 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:21:29,118 INFO [main] Hello from Log4j 2
+2023-05-05 10:21:29,118 WARN [main] Hello from Log4j 2
+2023-05-05 10:21:29,118 ERROR [main] Hello from Log4j 2
+2023-05-05 10:21:29,118 FATAL [main] Hello from Log4j 2
+2023-05-05 10:21:29,119 INFO [main] Ciao
+2023-05-05 10:21:29,119 INFO [main] M
+2023-05-05 10:21:29,119 INFO [main] O
+2023-05-05 10:21:29,119 INFO [main] N
+2023-05-05 10:21:29,119 INFO [main] D
+2023-05-05 10:21:29,119 INFO [main] O
+2023-05-05 10:21:29,120 INFO [main] !
+2023-05-05 10:21:29,122 FATAL [main] Addizione tra 5 e 50 è 55
+2023-05-05 10:21:29,124 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 10:21:29,125 FATAL [main] Hello World
+2023-05-05 10:21:29,134 INFO [main] Autore: Dante Aligheri
+2023-05-05 10:21:29,134 WARN [main] Titolo: La divina commedia
+2023-05-05 10:21:29,134 INFO [main] Autore: Eugenio Montale
+2023-05-05 10:21:29,134 WARN [main] Titolo: Ossi di seppia
+2023-05-05 10:21:29,135 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 10:21:29,135 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:21:29,139 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:21:29,625 INFO [main] Valore Ciao
+2023-05-05 10:21:29,625 INFO [main] Valore Sono
+2023-05-05 10:21:29,625 INFO [main] Valore un
+2023-05-05 10:21:29,626 INFO [main] Valore esempio
+2023-05-05 10:21:29,626 INFO [main] Valore di 
+2023-05-05 10:21:29,626 INFO [main] Valore test
+2023-05-05 10:21:29,966 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:21:29,967 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:23:25,001 TRACE [main] Hello from Log4j 2
+2023-05-05 10:23:25,003 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:23:25,004 INFO [main] Hello from Log4j 2
+2023-05-05 10:23:25,004 WARN [main] Hello from Log4j 2
+2023-05-05 10:23:25,004 ERROR [main] Hello from Log4j 2
+2023-05-05 10:23:25,004 FATAL [main] Hello from Log4j 2
+2023-05-05 10:23:25,008 FATAL [main] Addizione tra 5 e 50 è 55
+2023-05-05 10:23:25,010 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 10:23:25,010 DEBUG [main] Hello World
+2023-05-05 10:23:25,020 INFO [main] Autore: Dante Aligheri
+2023-05-05 10:23:25,021 WARN [main] Titolo: La divina commedia
+2023-05-05 10:23:25,021 INFO [main] Autore: Eugenio Montale
+2023-05-05 10:23:25,021 WARN [main] Titolo: Ossi di seppia
+2023-05-05 10:23:25,021 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 10:23:25,022 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:23:25,026 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:23:25,456 INFO [main] Valore Ciao
+2023-05-05 10:23:25,457 INFO [main] Valore Sono
+2023-05-05 10:23:25,457 INFO [main] Valore un
+2023-05-05 10:23:25,457 INFO [main] Valore esempio
+2023-05-05 10:23:25,457 INFO [main] Valore di 
+2023-05-05 10:23:25,457 INFO [main] Valore test
+2023-05-05 10:23:25,824 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:23:25,824 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:30:10,446 TRACE [main] Hello from Log4j 2
+2023-05-05 10:30:10,448 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:30:10,448 INFO [main] Hello from Log4j 2
+2023-05-05 10:30:10,448 WARN [main] Hello from Log4j 2
+2023-05-05 10:30:10,448 ERROR [main] Hello from Log4j 2
+2023-05-05 10:30:10,448 FATAL [main] Hello from Log4j 2
+2023-05-05 10:30:10,452 FATAL [main] Addizione tra 5 e 50 è 55
+2023-05-05 10:30:10,454 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 10:30:10,454 DEBUG [main] Hello World
+2023-05-05 10:30:10,463 INFO [main] Autore: Dante Aligheri
+2023-05-05 10:30:10,463 WARN [main] Titolo: La divina commedia
+2023-05-05 10:30:10,463 INFO [main] Autore: Eugenio Montale
+2023-05-05 10:30:10,463 WARN [main] Titolo: Ossi di seppia
+2023-05-05 10:30:10,464 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 10:30:10,465 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:30:10,469 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:30:10,942 INFO [main] Valore Ciao
+2023-05-05 10:30:10,943 INFO [main] Valore Sono
+2023-05-05 10:30:10,943 INFO [main] Valore un
+2023-05-05 10:30:10,943 INFO [main] Valore esempio
+2023-05-05 10:30:10,944 INFO [main] Valore di 
+2023-05-05 10:30:10,944 INFO [main] Valore test
+2023-05-05 10:30:11,284 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:30:11,284 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:34:01,788 TRACE [main] Hello from Log4j 2
+2023-05-05 10:34:01,791 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:34:01,791 INFO [main] Hello from Log4j 2
+2023-05-05 10:34:01,791 WARN [main] Hello from Log4j 2
+2023-05-05 10:34:01,791 ERROR [main] Hello from Log4j 2
+2023-05-05 10:34:01,791 FATAL [main] Hello from Log4j 2
+2023-05-05 10:34:01,795 FATAL [main] Addizione tra 5 e 50 è 55
+2023-05-05 10:34:01,797 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 10:34:01,797 DEBUG [main] Hello World
+2023-05-05 10:34:01,807 INFO [main] Autore: Dante Aligheri
+2023-05-05 10:34:01,807 WARN [main] Titolo: La divina commedia
+2023-05-05 10:34:01,808 INFO [main] Autore: Eugenio Montale
+2023-05-05 10:34:01,808 WARN [main] Titolo: Ossi di seppia
+2023-05-05 10:34:01,808 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 10:34:01,809 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:34:01,813 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:34:02,312 INFO [main] Valore Ciao
+2023-05-05 10:34:02,313 INFO [main] Valore Sono
+2023-05-05 10:34:02,313 INFO [main] Valore un
+2023-05-05 10:34:02,313 INFO [main] Valore esempio
+2023-05-05 10:34:02,313 INFO [main] Valore di 
+2023-05-05 10:34:02,313 INFO [main] Valore test
+2023-05-05 10:34:02,738 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:34:02,739 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:39:20,742 TRACE [main] Hello from Log4j 2
+2023-05-05 10:39:20,745 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:39:20,745 INFO [main] Hello from Log4j 2
+2023-05-05 10:39:20,745 WARN [main] Hello from Log4j 2
+2023-05-05 10:39:20,745 ERROR [main] Hello from Log4j 2
+2023-05-05 10:39:20,745 FATAL [main] Hello from Log4j 2
+2023-05-05 10:39:20,748 FATAL [main] Addizione tra 5 e 50 è 55
+2023-05-05 10:39:20,750 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 10:39:20,751 DEBUG [main] Hello World
+2023-05-05 10:39:20,760 INFO [main] Autore: Dante Aligheri
+2023-05-05 10:39:20,761 WARN [main] Titolo: La divina commedia
+2023-05-05 10:39:20,761 INFO [main] Autore: Eugenio Montale
+2023-05-05 10:39:20,761 WARN [main] Titolo: Ossi di seppia
+2023-05-05 10:39:20,762 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 10:39:20,762 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:39:20,766 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:39:21,237 INFO [main] Valore Ciao
+2023-05-05 10:39:21,238 INFO [main] Valore Sono
+2023-05-05 10:39:21,238 INFO [main] Valore un
+2023-05-05 10:39:21,238 INFO [main] Valore esempio
+2023-05-05 10:39:21,238 INFO [main] Valore di 
+2023-05-05 10:39:21,238 INFO [main] Valore test
+2023-05-05 10:39:21,577 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:39:21,578 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 11:25:58,139 TRACE [main] Hello from Log4j 2
+2023-05-05 11:25:58,141 DEBUG [main] Hello from Log4j 2
+2023-05-05 11:25:58,141 INFO [main] Hello from Log4j 2
+2023-05-05 11:25:58,141 WARN [main] Hello from Log4j 2
+2023-05-05 11:25:58,141 ERROR [main] Hello from Log4j 2
+2023-05-05 11:25:58,141 FATAL [main] Hello from Log4j 2
+2023-05-05 11:25:58,145 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 11:25:58,147 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 11:25:58,147 DEBUG [main] Hello World
+2023-05-05 11:25:58,156 INFO [main] Autore: Dante Aligheri
+2023-05-05 11:25:58,156 WARN [main] Titolo: La divina commedia
+2023-05-05 11:25:58,156 INFO [main] Autore: Eugenio Montale
+2023-05-05 11:25:58,156 WARN [main] Titolo: Ossi di seppia
+2023-05-05 11:25:58,157 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 11:25:58,157 DEBUG [main] File CSV creato correttamente
+2023-05-05 11:25:58,161 DEBUG [main] Provo a leggere un file excel
+2023-05-05 11:25:58,604 INFO [main] Valore Ciao
+2023-05-05 11:25:58,604 INFO [main] Valore Sono
+2023-05-05 11:25:58,604 INFO [main] Valore un
+2023-05-05 11:25:58,604 INFO [main] Valore esempio
+2023-05-05 11:25:58,605 INFO [main] Valore di 
+2023-05-05 11:25:58,605 INFO [main] Valore test
+2023-05-05 11:25:58,940 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 11:25:58,940 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 11:56:20,285 TRACE [main] Hello from Log4j 2
+2023-05-05 11:56:20,287 DEBUG [main] Hello from Log4j 2
+2023-05-05 11:56:20,288 INFO [main] Hello from Log4j 2
+2023-05-05 11:56:20,288 WARN [main] Hello from Log4j 2
+2023-05-05 11:56:20,288 ERROR [main] Hello from Log4j 2
+2023-05-05 11:56:20,288 FATAL [main] Hello from Log4j 2
+2023-05-05 11:56:20,291 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 11:56:20,293 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 11:56:20,293 DEBUG [main] Hello World
+2023-05-05 11:56:20,302 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 11:56:20,302 WARN [main] Titolo: L'infinito
+2023-05-05 11:56:20,303 INFO [main] Autore: Dante Aligheri
+2023-05-05 11:56:20,303 WARN [main] Titolo: La divina commedia
+2023-05-05 11:56:20,303 INFO [main] Autore: Eugenio Montale
+2023-05-05 11:56:20,303 WARN [main] Titolo: Ossi di seppia
+2023-05-05 11:56:20,303 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 11:56:20,304 DEBUG [main] File CSV creato correttamente
+2023-05-05 11:56:20,307 DEBUG [main] Provo a leggere un file excel
+2023-05-05 11:56:20,731 INFO [main] Valore Ciao
+2023-05-05 11:56:20,731 INFO [main] Valore Sono
+2023-05-05 11:56:20,732 INFO [main] Valore un
+2023-05-05 11:56:20,732 INFO [main] Valore esempio
+2023-05-05 11:56:20,732 INFO [main] Valore di 
+2023-05-05 11:56:20,732 INFO [main] Valore test
+2023-05-05 11:56:21,068 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 11:56:21,069 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:05:26,507 TRACE [main] Hello from Log4j 2
+2023-05-05 12:05:26,509 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:05:26,509 INFO [main] Hello from Log4j 2
+2023-05-05 12:05:26,510 WARN [main] Hello from Log4j 2
+2023-05-05 12:05:26,510 ERROR [main] Hello from Log4j 2
+2023-05-05 12:05:26,510 FATAL [main] Hello from Log4j 2
+2023-05-05 12:05:26,513 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:05:26,515 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:05:26,515 DEBUG [main] Hello World
+2023-05-05 12:05:26,524 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:05:26,525 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:05:26,525 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:05:26,525 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:05:26,525 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:05:26,525 WARN [main] Titolo: L'infinito
+2023-05-05 12:05:26,525 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:05:26,525 WARN [main] Titolo: La divina commedia
+2023-05-05 12:05:26,526 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:05:26,526 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:05:26,526 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:05:26,526 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:05:26,526 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:05:26,527 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:05:26,532 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:05:26,994 INFO [main] Valore Ciao
+2023-05-05 12:05:26,994 INFO [main] Valore Sono
+2023-05-05 12:05:26,994 INFO [main] Valore un
+2023-05-05 12:05:26,995 INFO [main] Valore esempio
+2023-05-05 12:05:26,995 INFO [main] Valore di 
+2023-05-05 12:05:26,995 INFO [main] Valore test
+2023-05-05 12:05:27,317 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:05:27,318 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:06:10,230 TRACE [main] Hello from Log4j 2
+2023-05-05 12:06:10,232 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:06:10,232 INFO [main] Hello from Log4j 2
+2023-05-05 12:06:10,232 WARN [main] Hello from Log4j 2
+2023-05-05 12:06:10,232 ERROR [main] Hello from Log4j 2
+2023-05-05 12:06:10,232 FATAL [main] Hello from Log4j 2
+2023-05-05 12:06:10,236 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:06:10,238 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:06:10,238 DEBUG [main] Hello World
+2023-05-05 12:06:10,248 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:06:10,248 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:06:10,249 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:06:10,249 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:06:10,249 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:06:10,249 WARN [main] Titolo: L'infinito
+2023-05-05 12:06:10,249 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:06:10,249 WARN [main] Titolo: La divina commedia
+2023-05-05 12:06:10,249 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:06:10,249 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:06:10,249 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:06:10,249 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:06:10,250 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:06:10,251 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:06:10,254 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:06:10,729 INFO [main] Valore Ciao
+2023-05-05 12:06:10,729 INFO [main] Valore Sono
+2023-05-05 12:06:10,730 INFO [main] Valore un
+2023-05-05 12:06:10,730 INFO [main] Valore esempio
+2023-05-05 12:06:10,730 INFO [main] Valore di 
+2023-05-05 12:06:10,730 INFO [main] Valore test
+2023-05-05 12:06:11,072 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:06:11,073 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:14:12,722 TRACE [main] Hello from Log4j 2
+2023-05-05 12:14:12,725 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:14:12,725 INFO [main] Hello from Log4j 2
+2023-05-05 12:14:12,725 WARN [main] Hello from Log4j 2
+2023-05-05 12:14:12,725 ERROR [main] Hello from Log4j 2
+2023-05-05 12:14:12,725 FATAL [main] Hello from Log4j 2
+2023-05-05 12:14:12,728 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:14:12,730 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:14:12,731 DEBUG [main] Hello World
+2023-05-05 12:14:12,740 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:14:12,740 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:14:12,740 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:14:12,740 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:14:12,740 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:14:12,741 WARN [main] Titolo: L'infinito
+2023-05-05 12:14:12,741 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:14:12,741 WARN [main] Titolo: La divina commedia
+2023-05-05 12:14:12,741 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:14:12,741 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:14:12,741 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:14:12,741 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:14:12,742 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:14:12,742 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:14:12,746 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:14:13,209 INFO [main] Valore Ciao
+2023-05-05 12:14:13,210 INFO [main] Valore Sono
+2023-05-05 12:14:13,211 INFO [main] Valore un
+2023-05-05 12:14:13,211 INFO [main] Valore esempio
+2023-05-05 12:14:13,211 INFO [main] Valore di 
+2023-05-05 12:14:13,211 INFO [main] Valore test
+2023-05-05 12:14:13,539 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:14:13,540 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:24:10,080 TRACE [main] Hello from Log4j 2
+2023-05-05 12:24:10,083 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:24:10,083 INFO [main] Hello from Log4j 2
+2023-05-05 12:24:10,083 WARN [main] Hello from Log4j 2
+2023-05-05 12:24:10,083 ERROR [main] Hello from Log4j 2
+2023-05-05 12:24:10,083 FATAL [main] Hello from Log4j 2
+2023-05-05 12:24:10,086 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:24:10,088 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:24:10,089 DEBUG [main] Hello World
+2023-05-05 12:24:10,097 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:24:10,098 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:24:10,098 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:24:10,098 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:24:10,098 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:24:10,098 WARN [main] Titolo: L'infinito
+2023-05-05 12:24:10,098 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:24:10,098 WARN [main] Titolo: La divina commedia
+2023-05-05 12:24:10,098 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:24:10,098 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:24:10,099 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:24:10,099 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:24:10,099 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:24:10,100 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:24:10,103 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:24:10,585 INFO [main] Valore Ciao
+2023-05-05 12:24:10,585 INFO [main] Valore Sono
+2023-05-05 12:24:10,585 INFO [main] Valore un
+2023-05-05 12:24:10,585 INFO [main] Valore esempio
+2023-05-05 12:24:10,585 INFO [main] Valore di 
+2023-05-05 12:24:10,586 INFO [main] Valore test
+2023-05-05 12:24:10,922 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:24:10,923 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:24:36,540 TRACE [main] Hello from Log4j 2
+2023-05-05 12:24:36,543 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:24:36,543 INFO [main] Hello from Log4j 2
+2023-05-05 12:24:36,543 WARN [main] Hello from Log4j 2
+2023-05-05 12:24:36,543 ERROR [main] Hello from Log4j 2
+2023-05-05 12:24:36,543 FATAL [main] Hello from Log4j 2
+2023-05-05 12:24:36,546 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:24:36,548 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:24:36,549 DEBUG [main] Hello World
+2023-05-05 12:24:36,559 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:24:36,559 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:24:36,559 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:24:36,559 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:24:36,559 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:24:36,560 WARN [main] Titolo: L'infinito
+2023-05-05 12:24:36,560 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:24:36,560 WARN [main] Titolo: La divina commedia
+2023-05-05 12:24:36,560 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:24:36,560 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:24:36,560 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:24:36,560 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:24:36,561 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:24:36,561 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:24:36,565 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:24:37,032 INFO [main] Valore Ciao
+2023-05-05 12:24:37,033 INFO [main] Valore Sono
+2023-05-05 12:24:37,033 INFO [main] Valore un
+2023-05-05 12:24:37,033 INFO [main] Valore esempio
+2023-05-05 12:24:37,033 INFO [main] Valore di 
+2023-05-05 12:24:37,034 INFO [main] Valore test
+2023-05-05 12:24:37,367 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:24:37,367 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:25:46,449 TRACE [main] Hello from Log4j 2
+2023-05-05 12:25:46,451 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:25:46,451 INFO [main] Hello from Log4j 2
+2023-05-05 12:25:46,452 WARN [main] Hello from Log4j 2
+2023-05-05 12:25:46,452 ERROR [main] Hello from Log4j 2
+2023-05-05 12:25:46,452 FATAL [main] Hello from Log4j 2
+2023-05-05 12:25:46,455 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:25:46,457 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:25:46,457 DEBUG [main] Hello World
+2023-05-05 12:25:46,467 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:25:46,467 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:25:46,467 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:25:46,467 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:25:46,467 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:25:46,467 WARN [main] Titolo: L'infinito
+2023-05-05 12:25:46,467 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:25:46,467 WARN [main] Titolo: La divina commedia
+2023-05-05 12:25:46,467 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:25:46,468 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:25:46,468 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:25:46,468 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:25:46,468 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:25:46,472 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:25:46,939 INFO [main] Valore Ciao
+2023-05-05 12:25:46,939 INFO [main] Valore Sono
+2023-05-05 12:25:46,939 INFO [main] Valore un
+2023-05-05 12:25:46,939 INFO [main] Valore esempio
+2023-05-05 12:25:46,939 INFO [main] Valore di 
+2023-05-05 12:25:46,940 INFO [main] Valore test
+2023-05-05 12:25:47,268 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:25:47,269 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:45:46,850 TRACE [main] Hello from Log4j 2
+2023-05-05 12:45:46,852 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:45:46,853 INFO [main] Hello from Log4j 2
+2023-05-05 12:45:46,853 WARN [main] Hello from Log4j 2
+2023-05-05 12:45:46,853 ERROR [main] Hello from Log4j 2
+2023-05-05 12:45:46,853 FATAL [main] Hello from Log4j 2
+2023-05-05 12:45:46,856 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:45:46,858 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:45:46,858 DEBUG [main] Hello World
+2023-05-05 12:45:46,867 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:45:46,868 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:45:46,868 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:45:46,868 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:45:46,868 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:45:46,868 WARN [main] Titolo: L'infinito
+2023-05-05 12:45:46,868 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:45:46,868 WARN [main] Titolo: La divina commedia
+2023-05-05 12:45:46,868 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:45:46,868 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:45:46,869 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:45:46,869 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:45:46,869 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:45:46,870 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:45:46,873 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:45:47,342 INFO [main] Valore Ciao
+2023-05-05 12:45:47,343 INFO [main] Valore Sono
+2023-05-05 12:45:47,343 INFO [main] Valore un
+2023-05-05 12:45:47,343 INFO [main] Valore esempio
+2023-05-05 12:45:47,343 INFO [main] Valore di 
+2023-05-05 12:45:47,343 INFO [main] Valore test
+2023-05-05 12:45:47,678 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:45:47,679 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:49:54,677 TRACE [main] Hello from Log4j 2
+2023-05-05 12:49:54,680 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:49:54,680 INFO [main] Hello from Log4j 2
+2023-05-05 12:49:54,680 WARN [main] Hello from Log4j 2
+2023-05-05 12:49:54,680 ERROR [main] Hello from Log4j 2
+2023-05-05 12:49:54,680 FATAL [main] Hello from Log4j 2
+2023-05-05 12:49:54,683 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:49:54,685 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:49:54,686 DEBUG [main] Hello World
+2023-05-05 12:49:54,695 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:49:54,696 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:49:54,696 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:49:54,696 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:49:54,696 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:49:54,696 WARN [main] Titolo: L'infinito
+2023-05-05 12:49:54,696 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:49:54,696 WARN [main] Titolo: La divina commedia
+2023-05-05 12:49:54,696 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:49:54,696 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:49:54,696 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:49:54,697 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:49:54,697 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:49:54,698 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:49:54,701 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:49:55,174 INFO [main] Valore Ciao
+2023-05-05 12:49:55,175 INFO [main] Valore Sono
+2023-05-05 12:49:55,175 INFO [main] Valore un
+2023-05-05 12:49:55,175 INFO [main] Valore esempio
+2023-05-05 12:49:55,175 INFO [main] Valore di 
+2023-05-05 12:49:55,175 INFO [main] Valore test
+2023-05-05 12:49:55,510 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:49:55,510 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:50:19,536 TRACE [main] Hello from Log4j 2
+2023-05-05 12:50:19,538 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:50:19,538 INFO [main] Hello from Log4j 2
+2023-05-05 12:50:19,538 WARN [main] Hello from Log4j 2
+2023-05-05 12:50:19,538 ERROR [main] Hello from Log4j 2
+2023-05-05 12:50:19,538 FATAL [main] Hello from Log4j 2
+2023-05-05 12:50:19,541 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:50:19,544 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:50:19,544 DEBUG [main] Hello World
+2023-05-05 12:50:19,552 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:50:19,552 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:50:19,553 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:50:19,553 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:50:19,553 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:50:19,553 WARN [main] Titolo: L'infinito
+2023-05-05 12:50:19,553 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:50:19,553 WARN [main] Titolo: La divina commedia
+2023-05-05 12:50:19,553 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:50:19,553 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:50:19,553 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:50:19,553 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:50:19,554 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:50:19,554 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:50:19,558 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:50:19,998 INFO [main] Valore Ciao
+2023-05-05 12:50:19,998 INFO [main] Valore Sono
+2023-05-05 12:50:19,998 INFO [main] Valore un
+2023-05-05 12:50:19,998 INFO [main] Valore esempio
+2023-05-05 12:50:19,998 INFO [main] Valore di 
+2023-05-05 12:50:19,999 INFO [main] Valore test
+2023-05-05 12:50:32,223 TRACE [main] Hello from Log4j 2
+2023-05-05 12:50:32,225 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:50:32,225 INFO [main] Hello from Log4j 2
+2023-05-05 12:50:32,225 WARN [main] Hello from Log4j 2
+2023-05-05 12:50:32,225 ERROR [main] Hello from Log4j 2
+2023-05-05 12:50:32,225 FATAL [main] Hello from Log4j 2
+2023-05-05 12:50:32,229 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:50:32,231 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:50:32,231 DEBUG [main] Hello World
+2023-05-05 12:50:32,240 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:50:32,240 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:50:32,240 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:50:32,240 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:50:32,240 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:50:32,241 WARN [main] Titolo: L'infinito
+2023-05-05 12:50:32,241 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:50:32,241 WARN [main] Titolo: La divina commedia
+2023-05-05 12:50:32,241 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:50:32,241 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:50:32,241 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:50:32,241 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:50:32,242 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:50:32,243 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:50:32,246 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:50:32,714 INFO [main] Valore Ciao
+2023-05-05 12:50:32,714 INFO [main] Valore Sono
+2023-05-05 12:50:32,715 INFO [main] Valore un
+2023-05-05 12:50:32,715 INFO [main] Valore esempio
+2023-05-05 12:50:32,715 INFO [main] Valore di 
+2023-05-05 12:50:32,715 INFO [main] Valore test
+2023-05-05 12:50:46,090 TRACE [main] Hello from Log4j 2
+2023-05-05 12:50:46,092 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:50:46,092 INFO [main] Hello from Log4j 2
+2023-05-05 12:50:46,093 WARN [main] Hello from Log4j 2
+2023-05-05 12:50:46,093 ERROR [main] Hello from Log4j 2
+2023-05-05 12:50:46,093 FATAL [main] Hello from Log4j 2
+2023-05-05 12:50:46,096 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:50:46,098 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:50:46,098 DEBUG [main] Hello World
+2023-05-05 12:50:46,107 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:50:46,107 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:50:46,107 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:50:46,108 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:50:46,108 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:50:46,108 WARN [main] Titolo: L'infinito
+2023-05-05 12:50:46,108 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:50:46,108 WARN [main] Titolo: La divina commedia
+2023-05-05 12:50:46,108 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:50:46,108 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:50:46,108 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:50:46,108 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:50:46,109 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:50:46,109 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:50:46,113 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:50:46,568 INFO [main] Valore Ciao
+2023-05-05 12:50:46,568 INFO [main] Valore Sono
+2023-05-05 12:50:46,568 INFO [main] Valore un
+2023-05-05 12:50:46,569 INFO [main] Valore esempio
+2023-05-05 12:50:46,569 INFO [main] Valore di 
+2023-05-05 12:50:46,569 INFO [main] Valore test
+2023-05-05 12:51:18,655 TRACE [main] Hello from Log4j 2
+2023-05-05 12:51:18,658 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:51:18,658 INFO [main] Hello from Log4j 2
+2023-05-05 12:51:18,658 WARN [main] Hello from Log4j 2
+2023-05-05 12:51:18,658 ERROR [main] Hello from Log4j 2
+2023-05-05 12:51:18,658 FATAL [main] Hello from Log4j 2
+2023-05-05 12:51:18,661 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:51:18,663 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:51:18,664 DEBUG [main] Hello World
+2023-05-05 12:51:18,673 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:51:18,673 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:51:18,673 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:51:18,673 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:51:18,673 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:51:18,673 WARN [main] Titolo: L'infinito
+2023-05-05 12:51:18,673 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:51:18,673 WARN [main] Titolo: La divina commedia
+2023-05-05 12:51:18,674 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:51:18,674 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:51:18,674 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:51:18,674 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:51:18,674 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:51:18,675 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:51:18,678 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:51:19,125 INFO [main] Valore Ciao
+2023-05-05 12:51:19,125 INFO [main] Valore Sono
+2023-05-05 12:51:19,125 INFO [main] Valore un
+2023-05-05 12:51:19,126 INFO [main] Valore esempio
+2023-05-05 12:51:19,126 INFO [main] Valore di 
+2023-05-05 12:51:19,126 INFO [main] Valore test
+2023-05-05 12:52:16,797 TRACE [main] Hello from Log4j 2
+2023-05-05 12:52:16,800 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:52:16,800 INFO [main] Hello from Log4j 2
+2023-05-05 12:52:16,800 WARN [main] Hello from Log4j 2
+2023-05-05 12:52:16,800 ERROR [main] Hello from Log4j 2
+2023-05-05 12:52:16,800 FATAL [main] Hello from Log4j 2
+2023-05-05 12:52:16,803 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:52:16,805 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:52:16,805 DEBUG [main] Hello World
+2023-05-05 12:52:16,814 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:52:16,814 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:52:16,814 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:52:16,814 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:52:16,814 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:52:16,814 WARN [main] Titolo: L'infinito
+2023-05-05 12:52:16,814 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:52:16,814 WARN [main] Titolo: La divina commedia
+2023-05-05 12:52:16,814 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:52:16,814 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:52:16,815 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:52:16,815 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:52:16,815 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:52:16,816 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:52:16,819 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:52:17,297 INFO [main] Valore Ciao
+2023-05-05 12:52:17,297 INFO [main] Valore Sono
+2023-05-05 12:52:17,297 INFO [main] Valore un
+2023-05-05 12:52:17,298 INFO [main] Valore esempio
+2023-05-05 12:52:17,298 INFO [main] Valore di 
+2023-05-05 12:52:17,298 INFO [main] Valore test
+2023-05-05 12:52:32,078 TRACE [main] Hello from Log4j 2
+2023-05-05 12:52:32,080 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:52:32,080 INFO [main] Hello from Log4j 2
+2023-05-05 12:52:32,080 WARN [main] Hello from Log4j 2
+2023-05-05 12:52:32,080 ERROR [main] Hello from Log4j 2
+2023-05-05 12:52:32,080 FATAL [main] Hello from Log4j 2
+2023-05-05 12:52:32,084 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:52:32,086 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:52:32,086 DEBUG [main] Hello World
+2023-05-05 12:52:32,095 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:52:32,096 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:52:32,096 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:52:32,096 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:52:32,096 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:52:32,096 WARN [main] Titolo: L'infinito
+2023-05-05 12:52:32,096 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:52:32,096 WARN [main] Titolo: La divina commedia
+2023-05-05 12:52:32,096 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:52:32,096 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:52:32,096 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:52:32,097 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:52:32,097 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:52:32,098 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:52:32,102 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:52:32,560 INFO [main] Valore Ciao
+2023-05-05 12:52:32,560 INFO [main] Valore Sono
+2023-05-05 12:52:32,560 INFO [main] Valore un
+2023-05-05 12:52:32,561 INFO [main] Valore esempio
+2023-05-05 12:52:32,561 INFO [main] Valore di 
+2023-05-05 12:52:32,561 INFO [main] Valore test
+2023-05-05 12:53:00,241 TRACE [main] Hello from Log4j 2
+2023-05-05 12:53:00,243 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:53:00,243 INFO [main] Hello from Log4j 2
+2023-05-05 12:53:00,243 WARN [main] Hello from Log4j 2
+2023-05-05 12:53:00,243 ERROR [main] Hello from Log4j 2
+2023-05-05 12:53:00,244 FATAL [main] Hello from Log4j 2
+2023-05-05 12:53:00,247 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:53:00,249 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:53:00,249 DEBUG [main] Hello World
+2023-05-05 12:53:00,258 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:53:00,258 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:53:00,258 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:53:00,258 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:53:00,259 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:53:00,259 WARN [main] Titolo: L'infinito
+2023-05-05 12:53:00,259 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:53:00,259 WARN [main] Titolo: La divina commedia
+2023-05-05 12:53:00,259 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:53:00,259 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:53:00,259 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:53:00,259 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:53:00,260 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:53:00,260 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:53:00,264 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:53:00,729 INFO [main] Valore Ciao
+2023-05-05 12:53:00,729 INFO [main] Valore Sono
+2023-05-05 12:53:00,730 INFO [main] Valore un
+2023-05-05 12:53:00,730 INFO [main] Valore esempio
+2023-05-05 12:53:00,730 INFO [main] Valore di 
+2023-05-05 12:53:00,730 INFO [main] Valore test
+2023-05-05 12:53:01,078 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:53:01,078 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:53:33,264 TRACE [main] Hello from Log4j 2
+2023-05-05 12:53:33,266 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:53:33,266 INFO [main] Hello from Log4j 2
+2023-05-05 12:53:33,266 WARN [main] Hello from Log4j 2
+2023-05-05 12:53:33,266 ERROR [main] Hello from Log4j 2
+2023-05-05 12:53:33,266 FATAL [main] Hello from Log4j 2
+2023-05-05 12:53:33,269 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:53:33,272 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:53:33,272 DEBUG [main] Hello World
+2023-05-05 12:53:33,282 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:53:33,282 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:53:33,282 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:53:33,282 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:53:33,283 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:53:33,283 WARN [main] Titolo: L'infinito
+2023-05-05 12:53:33,283 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:53:33,283 WARN [main] Titolo: La divina commedia
+2023-05-05 12:53:33,283 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:53:33,283 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:53:33,283 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:53:33,283 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:53:33,284 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:53:33,284 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:53:33,288 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:53:33,761 INFO [main] Valore Ciao
+2023-05-05 12:53:33,761 INFO [main] Valore Sono
+2023-05-05 12:53:33,762 INFO [main] Valore un
+2023-05-05 12:53:33,762 INFO [main] Valore esempio
+2023-05-05 12:53:33,762 INFO [main] Valore di 
+2023-05-05 12:53:33,762 INFO [main] Valore test
+2023-05-05 12:53:34,099 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:53:34,100 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:54:21,964 TRACE [main] Hello from Log4j 2
+2023-05-05 12:54:21,967 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:54:21,967 INFO [main] Hello from Log4j 2
+2023-05-05 12:54:21,967 WARN [main] Hello from Log4j 2
+2023-05-05 12:54:21,967 ERROR [main] Hello from Log4j 2
+2023-05-05 12:54:21,967 FATAL [main] Hello from Log4j 2
+2023-05-05 12:54:21,970 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:54:21,972 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:54:21,973 DEBUG [main] Hello World
+2023-05-05 12:54:21,984 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:54:21,984 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:54:21,984 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:54:21,984 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:54:21,984 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:54:21,984 WARN [main] Titolo: L'infinito
+2023-05-05 12:54:21,984 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:54:21,984 WARN [main] Titolo: La divina commedia
+2023-05-05 12:54:21,984 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:54:21,985 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:54:21,985 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:54:21,985 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:54:21,985 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:54:21,986 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:54:21,989 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:54:22,442 INFO [main] Valore Ciao
+2023-05-05 12:54:22,443 INFO [main] Valore Sono
+2023-05-05 12:54:22,443 INFO [main] Valore un
+2023-05-05 12:54:22,443 INFO [main] Valore esempio
+2023-05-05 12:54:22,443 INFO [main] Valore di 
+2023-05-05 12:54:22,443 INFO [main] Valore test
+2023-05-05 12:54:22,781 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:54:22,781 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:55:03,553 TRACE [main] Hello from Log4j 2
+2023-05-05 12:55:03,556 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:55:03,556 INFO [main] Hello from Log4j 2
+2023-05-05 12:55:03,556 WARN [main] Hello from Log4j 2
+2023-05-05 12:55:03,556 ERROR [main] Hello from Log4j 2
+2023-05-05 12:55:03,556 FATAL [main] Hello from Log4j 2
+2023-05-05 12:55:03,560 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:55:03,564 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:55:03,565 DEBUG [main] Hello World
+2023-05-05 12:55:03,576 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:55:03,577 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:55:03,577 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:55:03,577 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:55:03,577 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:55:03,577 WARN [main] Titolo: L'infinito
+2023-05-05 12:55:03,577 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:55:03,577 WARN [main] Titolo: La divina commedia
+2023-05-05 12:55:03,577 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:55:03,577 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:55:03,578 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:55:03,578 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:55:03,579 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:55:03,580 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:55:03,584 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:55:04,062 INFO [main] Valore Ciao
+2023-05-05 12:55:04,062 INFO [main] Valore Sono
+2023-05-05 12:55:04,062 INFO [main] Valore un
+2023-05-05 12:55:04,062 INFO [main] Valore esempio
+2023-05-05 12:55:04,062 INFO [main] Valore di 
+2023-05-05 12:55:04,063 INFO [main] Valore test
+2023-05-05 12:55:04,412 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:55:04,413 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:55:54,488 TRACE [main] Hello from Log4j 2
+2023-05-05 12:55:54,490 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:55:54,490 INFO [main] Hello from Log4j 2
+2023-05-05 12:55:54,490 WARN [main] Hello from Log4j 2
+2023-05-05 12:55:54,490 ERROR [main] Hello from Log4j 2
+2023-05-05 12:55:54,490 FATAL [main] Hello from Log4j 2
+2023-05-05 12:55:54,493 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:55:54,496 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:55:54,496 DEBUG [main] Hello World
+2023-05-05 12:55:54,505 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:55:54,506 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:55:54,506 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:55:54,506 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:55:54,506 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:55:54,506 WARN [main] Titolo: L'infinito
+2023-05-05 12:55:54,506 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:55:54,506 WARN [main] Titolo: La divina commedia
+2023-05-05 12:55:54,506 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:55:54,506 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:55:54,506 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:55:54,506 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:55:54,507 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:55:54,507 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:55:54,511 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:55:54,983 INFO [main] Valore Ciao
+2023-05-05 12:55:54,984 INFO [main] Valore Sono
+2023-05-05 12:55:54,984 INFO [main] Valore un
+2023-05-05 12:55:54,984 INFO [main] Valore esempio
+2023-05-05 12:55:54,984 INFO [main] Valore di 
+2023-05-05 12:55:54,984 INFO [main] Valore test
+2023-05-05 12:55:55,314 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:55:55,315 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:56:09,737 TRACE [main] Hello from Log4j 2
+2023-05-05 12:56:09,739 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:56:09,739 INFO [main] Hello from Log4j 2
+2023-05-05 12:56:09,739 WARN [main] Hello from Log4j 2
+2023-05-05 12:56:09,739 ERROR [main] Hello from Log4j 2
+2023-05-05 12:56:09,739 FATAL [main] Hello from Log4j 2
+2023-05-05 12:56:09,742 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:56:09,745 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:56:09,745 DEBUG [main] Hello World
+2023-05-05 12:56:09,754 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:56:09,754 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:56:09,754 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:56:09,754 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:56:09,754 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:56:09,754 WARN [main] Titolo: L'infinito
+2023-05-05 12:56:09,754 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:56:09,755 WARN [main] Titolo: La divina commedia
+2023-05-05 12:56:09,755 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:56:09,755 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:56:09,755 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:56:09,755 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:56:09,755 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:56:09,756 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:56:09,760 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:56:10,222 INFO [main] Valore Ciao
+2023-05-05 12:56:10,223 INFO [main] Valore Sono
+2023-05-05 12:56:10,223 INFO [main] Valore un
+2023-05-05 12:56:10,223 INFO [main] Valore esempio
+2023-05-05 12:56:10,223 INFO [main] Valore di 
+2023-05-05 12:56:10,224 INFO [main] Valore test
+2023-05-05 12:56:10,572 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:56:10,572 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 12:58:46,050 TRACE [main] Hello from Log4j 2
+2023-05-05 12:58:46,053 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:58:46,053 INFO [main] Hello from Log4j 2
+2023-05-05 12:58:46,053 WARN [main] Hello from Log4j 2
+2023-05-05 12:58:46,053 ERROR [main] Hello from Log4j 2
+2023-05-05 12:58:46,053 FATAL [main] Hello from Log4j 2
+2023-05-05 12:58:46,056 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:58:46,058 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:58:46,059 DEBUG [main] Hello World
+2023-05-05 12:58:46,068 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:58:46,068 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:58:46,068 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:58:46,069 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:58:46,069 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:58:46,069 WARN [main] Titolo: L'infinito
+2023-05-05 12:58:46,069 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:58:46,069 WARN [main] Titolo: La divina commedia
+2023-05-05 12:58:46,069 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:58:46,069 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:58:46,069 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:58:46,069 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:58:46,070 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:58:46,070 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:58:46,074 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:58:46,540 INFO [main] Valore Ciao
+2023-05-05 12:58:46,540 INFO [main] Valore Sono
+2023-05-05 12:58:46,540 INFO [main] Valore un
+2023-05-05 12:58:46,541 INFO [main] Valore esempio
+2023-05-05 12:58:46,541 INFO [main] Valore di 
+2023-05-05 12:58:46,541 INFO [main] Valore test
+2023-05-05 12:59:00,406 TRACE [main] Hello from Log4j 2
+2023-05-05 12:59:00,409 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:59:00,409 INFO [main] Hello from Log4j 2
+2023-05-05 12:59:00,409 WARN [main] Hello from Log4j 2
+2023-05-05 12:59:00,409 ERROR [main] Hello from Log4j 2
+2023-05-05 12:59:00,409 FATAL [main] Hello from Log4j 2
+2023-05-05 12:59:00,412 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 12:59:00,414 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 12:59:00,415 DEBUG [main] Hello World
+2023-05-05 12:59:00,423 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:59:00,423 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 12:59:00,424 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:59:00,424 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 12:59:00,424 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:59:00,424 WARN [main] Titolo: L'infinito
+2023-05-05 12:59:00,424 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:59:00,424 WARN [main] Titolo: La divina commedia
+2023-05-05 12:59:00,424 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:59:00,424 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:59:00,424 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:59:00,424 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 12:59:00,425 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:59:00,425 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:59:00,429 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:59:00,892 INFO [main] Valore Ciao
+2023-05-05 12:59:00,892 INFO [main] Valore Sono
+2023-05-05 12:59:00,892 INFO [main] Valore un
+2023-05-05 12:59:00,892 INFO [main] Valore esempio
+2023-05-05 12:59:00,893 INFO [main] Valore di 
+2023-05-05 12:59:00,893 INFO [main] Valore test
+2023-05-05 12:59:01,219 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 12:59:01,220 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 13:01:32,011 TRACE [main] Hello from Log4j 2
+2023-05-05 13:01:32,014 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:01:32,014 INFO [main] Hello from Log4j 2
+2023-05-05 13:01:32,014 WARN [main] Hello from Log4j 2
+2023-05-05 13:01:32,014 ERROR [main] Hello from Log4j 2
+2023-05-05 13:01:32,014 FATAL [main] Hello from Log4j 2
+2023-05-05 13:01:32,017 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:01:32,019 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:01:32,020 DEBUG [main] Hello World
+2023-05-05 13:01:32,029 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:01:32,029 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:01:32,030 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:01:32,030 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:01:32,030 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:01:32,030 WARN [main] Titolo: L'infinito
+2023-05-05 13:01:32,030 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:01:32,030 WARN [main] Titolo: La divina commedia
+2023-05-05 13:01:32,030 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:01:32,030 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:01:32,030 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:01:32,031 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:01:32,031 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:01:32,032 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:01:32,035 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:01:32,478 INFO [main] Valore Ciao
+2023-05-05 13:01:32,478 INFO [main] Valore Sono
+2023-05-05 13:01:32,478 INFO [main] Valore un
+2023-05-05 13:01:32,478 INFO [main] Valore esempio
+2023-05-05 13:01:32,479 INFO [main] Valore di 
+2023-05-05 13:01:32,479 INFO [main] Valore test
+2023-05-05 13:01:32,809 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 13:01:32,810 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 13:14:19,224 TRACE [main] Hello from Log4j 2
+2023-05-05 13:14:19,226 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:14:19,227 INFO [main] Hello from Log4j 2
+2023-05-05 13:14:19,227 WARN [main] Hello from Log4j 2
+2023-05-05 13:14:19,227 ERROR [main] Hello from Log4j 2
+2023-05-05 13:14:19,227 FATAL [main] Hello from Log4j 2
+2023-05-05 13:14:19,230 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:14:19,232 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:14:19,232 DEBUG [main] Hello World
+2023-05-05 13:14:19,241 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:14:19,241 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:14:19,241 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:14:19,242 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:14:19,242 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:14:19,242 WARN [main] Titolo: L'infinito
+2023-05-05 13:14:19,242 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:14:19,242 WARN [main] Titolo: La divina commedia
+2023-05-05 13:14:19,242 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:14:19,242 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:14:19,242 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:14:19,242 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:14:19,243 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:14:19,243 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:14:19,247 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:14:19,669 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:14:19,723 INFO [main] Valore Ciao
+2023-05-05 13:14:19,724 INFO [main] Valore piacere
+2023-05-05 13:14:19,724 INFO [main] Valore di
+2023-05-05 13:14:19,724 INFO [main] Valore conoscerti
+2023-05-05 13:14:19,724 INFO [main] Valore 
+2023-05-05 13:14:20,047 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 13:14:20,047 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 13:14:59,657 TRACE [main] Hello from Log4j 2
+2023-05-05 13:14:59,660 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:14:59,660 INFO [main] Hello from Log4j 2
+2023-05-05 13:14:59,660 WARN [main] Hello from Log4j 2
+2023-05-05 13:14:59,660 ERROR [main] Hello from Log4j 2
+2023-05-05 13:14:59,660 FATAL [main] Hello from Log4j 2
+2023-05-05 13:14:59,663 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:14:59,665 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:14:59,666 DEBUG [main] Hello World
+2023-05-05 13:14:59,674 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:14:59,675 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:14:59,675 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:14:59,675 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:14:59,675 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:14:59,675 WARN [main] Titolo: L'infinito
+2023-05-05 13:14:59,675 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:14:59,675 WARN [main] Titolo: La divina commedia
+2023-05-05 13:14:59,675 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:14:59,675 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:14:59,675 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:14:59,676 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:14:59,676 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:14:59,677 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:14:59,680 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:15:00,111 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:15:00,169 INFO [main] Valore Ciao
+2023-05-05 13:15:00,169 INFO [main] Valore piacere
+2023-05-05 13:15:00,169 INFO [main] Valore di
+2023-05-05 13:15:00,170 INFO [main] Valore conoscerti
+2023-05-05 13:15:00,170 INFO [main] Valore 
+2023-05-05 13:15:00,498 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 13:15:00,499 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 13:15:58,795 TRACE [main] Hello from Log4j 2
+2023-05-05 13:15:58,797 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:15:58,797 INFO [main] Hello from Log4j 2
+2023-05-05 13:15:58,797 WARN [main] Hello from Log4j 2
+2023-05-05 13:15:58,797 ERROR [main] Hello from Log4j 2
+2023-05-05 13:15:58,797 FATAL [main] Hello from Log4j 2
+2023-05-05 13:15:58,801 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:15:58,803 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:15:58,803 DEBUG [main] Hello World
+2023-05-05 13:15:58,812 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:15:58,812 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:15:58,813 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:15:58,813 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:15:58,813 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:15:58,813 WARN [main] Titolo: L'infinito
+2023-05-05 13:15:58,813 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:15:58,813 WARN [main] Titolo: La divina commedia
+2023-05-05 13:15:58,813 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:15:58,813 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:15:58,813 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:15:58,813 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:15:58,814 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:15:58,814 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:15:58,817 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:15:59,245 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:15:59,312 INFO [main] Valore Ciao
+2023-05-05 13:15:59,313 INFO [main] Valore sono
+2023-05-05 13:15:59,313 INFO [main] Valore Giuseppe
+2023-05-05 13:15:59,313 INFO [main] Valore Verdi
+2023-05-05 13:15:59,313 INFO [main] Valore piacere
+2023-05-05 13:15:59,313 INFO [main] Valore di
+2023-05-05 13:15:59,314 INFO [main] Valore conoscerti
+2023-05-05 13:15:59,314 INFO [main] Valore 
+2023-05-05 13:15:59,662 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 13:15:59,663 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 13:28:45,128 TRACE [main] Hello from Log4j 2
+2023-05-05 13:28:45,130 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:28:45,131 INFO [main] Hello from Log4j 2
+2023-05-05 13:28:45,131 WARN [main] Hello from Log4j 2
+2023-05-05 13:28:45,131 ERROR [main] Hello from Log4j 2
+2023-05-05 13:28:45,131 FATAL [main] Hello from Log4j 2
+2023-05-05 13:28:45,134 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:28:45,136 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:28:45,136 DEBUG [main] Hello World
+2023-05-05 13:28:45,145 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:28:45,145 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:28:45,145 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:28:45,145 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:28:45,145 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:28:45,145 WARN [main] Titolo: L'infinito
+2023-05-05 13:28:45,145 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:28:45,146 WARN [main] Titolo: La divina commedia
+2023-05-05 13:28:45,146 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:28:45,146 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:28:45,146 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:28:45,146 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:28:45,146 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:28:45,147 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:28:45,150 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:28:45,565 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:28:45,624 INFO [main] Valore Ciao
+2023-05-05 13:28:45,624 INFO [main] Valore sono
+2023-05-05 13:28:45,624 INFO [main] Valore Giuseppe
+2023-05-05 13:28:45,624 INFO [main] Valore Verdi
+2023-05-05 13:28:45,625 INFO [main] Valore piacere
+2023-05-05 13:28:45,625 INFO [main] Valore di
+2023-05-05 13:28:45,625 INFO [main] Valore conoscerti
+2023-05-05 13:28:45,625 INFO [main] Valore 
+2023-05-05 13:28:45,971 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Lecce"}
+2023-05-05 13:28:45,971 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 13:28:45,972 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Roma"}
+2023-05-05 13:34:26,785 TRACE [main] Hello from Log4j 2
+2023-05-05 13:34:26,787 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:34:26,787 INFO [main] Hello from Log4j 2
+2023-05-05 13:34:26,788 WARN [main] Hello from Log4j 2
+2023-05-05 13:34:26,788 ERROR [main] Hello from Log4j 2
+2023-05-05 13:34:26,788 FATAL [main] Hello from Log4j 2
+2023-05-05 13:34:26,791 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:34:26,793 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:34:26,793 DEBUG [main] Hello World
+2023-05-05 13:34:26,802 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:34:26,803 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:34:26,803 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:34:26,803 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:34:26,803 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:34:26,803 WARN [main] Titolo: L'infinito
+2023-05-05 13:34:26,803 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:34:26,803 WARN [main] Titolo: La divina commedia
+2023-05-05 13:34:26,804 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:34:26,804 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:34:26,804 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:34:26,804 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:34:26,804 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:34:26,805 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:34:26,809 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:34:27,231 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:34:27,292 INFO [main] Valore Ciao
+2023-05-05 13:34:27,293 INFO [main] Valore sono
+2023-05-05 13:34:27,293 INFO [main] Valore Giuseppe
+2023-05-05 13:34:27,293 INFO [main] Valore Verdi
+2023-05-05 13:34:27,293 INFO [main] Valore piacere
+2023-05-05 13:34:27,293 INFO [main] Valore di
+2023-05-05 13:34:27,294 INFO [main] Valore conoscerti
+2023-05-05 13:34:27,294 INFO [main] Valore 
+2023-05-05 13:34:27,671 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Lecce"}
+2023-05-05 13:34:27,671 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 13:34:27,672 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Roma"}
+2023-05-05 13:49:59,389 TRACE [main] Hello from Log4j 2
+2023-05-05 13:49:59,393 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:49:59,393 INFO [main] Hello from Log4j 2
+2023-05-05 13:49:59,394 WARN [main] Hello from Log4j 2
+2023-05-05 13:49:59,394 ERROR [main] Hello from Log4j 2
+2023-05-05 13:49:59,394 FATAL [main] Hello from Log4j 2
+2023-05-05 13:49:59,397 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:49:59,399 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:49:59,399 DEBUG [main] Hello World
+2023-05-05 13:49:59,408 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:49:59,408 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:49:59,408 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:49:59,408 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:49:59,409 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:49:59,409 WARN [main] Titolo: L'infinito
+2023-05-05 13:49:59,409 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:49:59,409 WARN [main] Titolo: La divina commedia
+2023-05-05 13:49:59,409 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:49:59,409 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:49:59,409 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:49:59,409 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:49:59,410 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:49:59,410 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:49:59,414 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:49:59,837 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:49:59,898 INFO [main] Valore Ciao
+2023-05-05 13:49:59,898 INFO [main] Valore sono
+2023-05-05 13:49:59,898 INFO [main] Valore Giuseppe
+2023-05-05 13:49:59,899 INFO [main] Valore Verdi
+2023-05-05 13:49:59,899 INFO [main] Valore piacere
+2023-05-05 13:49:59,899 INFO [main] Valore di
+2023-05-05 13:49:59,899 INFO [main] Valore conoscerti
+2023-05-05 13:49:59,899 INFO [main] Valore 
+2023-05-05 13:50:00,252 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 13:50:00,252 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 13:50:00,253 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 13:52:59,577 TRACE [main] Hello from Log4j 2
+2023-05-05 13:52:59,579 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:52:59,580 INFO [main] Hello from Log4j 2
+2023-05-05 13:52:59,580 WARN [main] Hello from Log4j 2
+2023-05-05 13:52:59,580 ERROR [main] Hello from Log4j 2
+2023-05-05 13:52:59,580 FATAL [main] Hello from Log4j 2
+2023-05-05 13:52:59,583 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:52:59,585 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:52:59,585 DEBUG [main] Hello World
+2023-05-05 13:52:59,594 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:52:59,594 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:52:59,594 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:52:59,594 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:52:59,594 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:52:59,594 WARN [main] Titolo: L'infinito
+2023-05-05 13:52:59,594 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:52:59,594 WARN [main] Titolo: La divina commedia
+2023-05-05 13:52:59,595 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:52:59,595 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:52:59,595 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:52:59,595 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:52:59,595 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:52:59,596 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:52:59,599 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:53:00,051 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:53:00,111 INFO [main] Valore Ciao
+2023-05-05 13:53:00,111 INFO [main] Valore sono
+2023-05-05 13:53:00,111 INFO [main] Valore Giuseppe
+2023-05-05 13:53:00,111 INFO [main] Valore Verdi
+2023-05-05 13:53:00,111 INFO [main] Valore piacere
+2023-05-05 13:53:00,111 INFO [main] Valore di
+2023-05-05 13:53:00,112 INFO [main] Valore conoscerti
+2023-05-05 13:53:00,112 INFO [main] Valore 
+2023-05-05 13:53:00,446 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 13:53:00,446 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 13:53:00,447 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 13:53:46,071 TRACE [main] Hello from Log4j 2
+2023-05-05 13:53:46,073 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:53:46,073 INFO [main] Hello from Log4j 2
+2023-05-05 13:53:46,073 WARN [main] Hello from Log4j 2
+2023-05-05 13:53:46,073 ERROR [main] Hello from Log4j 2
+2023-05-05 13:53:46,073 FATAL [main] Hello from Log4j 2
+2023-05-05 13:53:46,077 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 13:53:46,079 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 13:53:46,079 DEBUG [main] Hello World
+2023-05-05 13:53:46,087 INFO [main] Autore: Luigi Pirandello
+2023-05-05 13:53:46,088 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 13:53:46,088 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:53:46,088 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 13:53:46,088 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:53:46,088 WARN [main] Titolo: L'infinito
+2023-05-05 13:53:46,088 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:53:46,088 WARN [main] Titolo: La divina commedia
+2023-05-05 13:53:46,088 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:53:46,088 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:53:46,089 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:53:46,089 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 13:53:46,089 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:53:46,090 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:53:46,093 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:53:46,520 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 13:53:46,579 INFO [main] Valore Ciao
+2023-05-05 13:53:46,579 INFO [main] Valore sono
+2023-05-05 13:53:46,579 INFO [main] Valore Giuseppe
+2023-05-05 13:53:46,579 INFO [main] Valore Verdi
+2023-05-05 13:53:46,579 INFO [main] Valore piacere
+2023-05-05 13:53:46,579 INFO [main] Valore di
+2023-05-05 13:53:46,580 INFO [main] Valore conoscerti
+2023-05-05 13:53:46,580 INFO [main] Valore 
+2023-05-05 13:53:46,909 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 13:53:46,909 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 13:53:46,909 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:21:35,719 TRACE [main] Hello from Log4j 2
+2023-05-05 14:21:35,721 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:21:35,721 INFO [main] Hello from Log4j 2
+2023-05-05 14:21:35,721 WARN [main] Hello from Log4j 2
+2023-05-05 14:21:35,721 ERROR [main] Hello from Log4j 2
+2023-05-05 14:21:35,721 FATAL [main] Hello from Log4j 2
+2023-05-05 14:21:35,724 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:21:35,726 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:21:35,727 DEBUG [main] Hello World
+2023-05-05 14:21:35,736 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:21:35,736 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:21:35,736 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:21:35,736 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:21:35,736 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:21:35,736 WARN [main] Titolo: L'infinito
+2023-05-05 14:21:35,736 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:21:35,736 WARN [main] Titolo: La divina commedia
+2023-05-05 14:21:35,737 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:21:35,737 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:21:35,737 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:21:35,737 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:21:35,737 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:21:35,738 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:21:35,741 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:21:36,168 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:21:36,226 INFO [main] Valore Ciao
+2023-05-05 14:21:36,227 INFO [main] Valore sono
+2023-05-05 14:21:36,227 INFO [main] Valore Giuseppe
+2023-05-05 14:21:36,227 INFO [main] Valore Verdi
+2023-05-05 14:21:36,227 INFO [main] Valore piacere
+2023-05-05 14:21:36,227 INFO [main] Valore di
+2023-05-05 14:21:36,228 INFO [main] Valore conoscerti
+2023-05-05 14:21:36,228 INFO [main] Valore 
+2023-05-05 14:22:29,889 TRACE [main] Hello from Log4j 2
+2023-05-05 14:22:29,891 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:22:29,891 INFO [main] Hello from Log4j 2
+2023-05-05 14:22:29,892 WARN [main] Hello from Log4j 2
+2023-05-05 14:22:29,892 ERROR [main] Hello from Log4j 2
+2023-05-05 14:22:29,892 FATAL [main] Hello from Log4j 2
+2023-05-05 14:22:29,895 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:22:29,897 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:22:29,897 DEBUG [main] Hello World
+2023-05-05 14:22:29,906 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:22:29,906 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:22:29,906 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:22:29,906 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:22:29,907 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:22:29,907 WARN [main] Titolo: L'infinito
+2023-05-05 14:22:29,907 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:22:29,907 WARN [main] Titolo: La divina commedia
+2023-05-05 14:22:29,907 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:22:29,907 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:22:29,907 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:22:29,907 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:22:29,908 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:22:29,908 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:22:29,912 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:22:30,330 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:22:30,391 INFO [main] Valore Ciao
+2023-05-05 14:22:30,392 INFO [main] Valore sono
+2023-05-05 14:22:30,392 INFO [main] Valore Giuseppe
+2023-05-05 14:22:30,392 INFO [main] Valore Verdi
+2023-05-05 14:22:30,392 INFO [main] Valore piacere
+2023-05-05 14:22:30,392 INFO [main] Valore di
+2023-05-05 14:22:30,393 INFO [main] Valore conoscerti
+2023-05-05 14:22:30,393 INFO [main] Valore 
+2023-05-05 14:23:05,750 TRACE [main] Hello from Log4j 2
+2023-05-05 14:23:05,753 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:23:05,753 INFO [main] Hello from Log4j 2
+2023-05-05 14:23:05,753 WARN [main] Hello from Log4j 2
+2023-05-05 14:23:05,753 ERROR [main] Hello from Log4j 2
+2023-05-05 14:23:05,753 FATAL [main] Hello from Log4j 2
+2023-05-05 14:23:05,756 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:23:05,758 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:23:05,759 DEBUG [main] Hello World
+2023-05-05 14:23:05,768 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:23:05,768 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:23:05,768 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:23:05,768 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:23:05,768 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:23:05,769 WARN [main] Titolo: L'infinito
+2023-05-05 14:23:05,769 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:23:05,769 WARN [main] Titolo: La divina commedia
+2023-05-05 14:23:05,769 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:23:05,769 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:23:05,769 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:23:05,769 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:23:05,770 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:23:05,770 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:23:05,773 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:23:06,178 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:23:06,236 INFO [main] Valore Ciao
+2023-05-05 14:23:06,237 INFO [main] Valore sono
+2023-05-05 14:23:06,237 INFO [main] Valore Giuseppe
+2023-05-05 14:23:06,237 INFO [main] Valore Verdi
+2023-05-05 14:23:06,237 INFO [main] Valore piacere
+2023-05-05 14:23:06,237 INFO [main] Valore di
+2023-05-05 14:23:06,238 INFO [main] Valore conoscerti
+2023-05-05 14:23:06,238 INFO [main] Valore 
+2023-05-05 14:23:21,709 TRACE [main] Hello from Log4j 2
+2023-05-05 14:23:21,712 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:23:21,712 INFO [main] Hello from Log4j 2
+2023-05-05 14:23:21,712 WARN [main] Hello from Log4j 2
+2023-05-05 14:23:21,712 ERROR [main] Hello from Log4j 2
+2023-05-05 14:23:21,712 FATAL [main] Hello from Log4j 2
+2023-05-05 14:23:21,715 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:23:21,717 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:23:21,718 DEBUG [main] Hello World
+2023-05-05 14:23:21,726 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:23:21,727 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:23:21,727 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:23:21,727 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:23:21,727 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:23:21,727 WARN [main] Titolo: L'infinito
+2023-05-05 14:23:21,727 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:23:21,727 WARN [main] Titolo: La divina commedia
+2023-05-05 14:23:21,727 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:23:21,727 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:23:21,727 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:23:21,728 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:23:21,728 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:23:21,729 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:23:21,733 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:23:22,162 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:23:22,223 INFO [main] Valore Ciao
+2023-05-05 14:23:22,223 INFO [main] Valore sono
+2023-05-05 14:23:22,223 INFO [main] Valore Giuseppe
+2023-05-05 14:23:22,223 INFO [main] Valore Verdi
+2023-05-05 14:23:22,223 INFO [main] Valore piacere
+2023-05-05 14:23:22,224 INFO [main] Valore di
+2023-05-05 14:23:22,224 INFO [main] Valore conoscerti
+2023-05-05 14:23:22,224 INFO [main] Valore 
+2023-05-05 14:23:28,406 TRACE [main] Hello from Log4j 2
+2023-05-05 14:23:28,408 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:23:28,408 INFO [main] Hello from Log4j 2
+2023-05-05 14:23:28,408 WARN [main] Hello from Log4j 2
+2023-05-05 14:23:28,408 ERROR [main] Hello from Log4j 2
+2023-05-05 14:23:28,408 FATAL [main] Hello from Log4j 2
+2023-05-05 14:23:28,411 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:23:28,413 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:23:28,414 DEBUG [main] Hello World
+2023-05-05 14:23:28,422 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:23:28,423 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:23:28,423 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:23:28,423 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:23:28,423 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:23:28,423 WARN [main] Titolo: L'infinito
+2023-05-05 14:23:28,423 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:23:28,423 WARN [main] Titolo: La divina commedia
+2023-05-05 14:23:28,423 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:23:28,423 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:23:28,423 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:23:28,424 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:23:28,424 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:23:28,425 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:23:28,428 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:23:28,846 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:23:28,907 INFO [main] Valore Ciao
+2023-05-05 14:23:28,907 INFO [main] Valore sono
+2023-05-05 14:23:28,907 INFO [main] Valore Giuseppe
+2023-05-05 14:23:28,907 INFO [main] Valore Verdi
+2023-05-05 14:23:28,908 INFO [main] Valore piacere
+2023-05-05 14:23:28,908 INFO [main] Valore di
+2023-05-05 14:23:28,908 INFO [main] Valore conoscerti
+2023-05-05 14:23:28,909 INFO [main] Valore 
+2023-05-05 14:24:12,350 TRACE [main] Hello from Log4j 2
+2023-05-05 14:24:12,352 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:24:12,353 INFO [main] Hello from Log4j 2
+2023-05-05 14:24:12,353 WARN [main] Hello from Log4j 2
+2023-05-05 14:24:12,353 ERROR [main] Hello from Log4j 2
+2023-05-05 14:24:12,353 FATAL [main] Hello from Log4j 2
+2023-05-05 14:24:12,356 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:24:12,358 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:24:12,358 DEBUG [main] Hello World
+2023-05-05 14:24:12,368 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:24:12,368 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:24:12,368 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:24:12,368 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:24:12,368 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:24:12,369 WARN [main] Titolo: L'infinito
+2023-05-05 14:24:12,369 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:24:12,369 WARN [main] Titolo: La divina commedia
+2023-05-05 14:24:12,369 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:24:12,369 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:24:12,369 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:24:12,369 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:24:12,370 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:24:12,370 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:24:12,374 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:24:12,778 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:24:12,834 INFO [main] Valore Ciao
+2023-05-05 14:24:12,835 INFO [main] Valore sono
+2023-05-05 14:24:12,835 INFO [main] Valore Giuseppe
+2023-05-05 14:24:12,835 INFO [main] Valore Verdi
+2023-05-05 14:24:12,835 INFO [main] Valore piacere
+2023-05-05 14:24:12,835 INFO [main] Valore di
+2023-05-05 14:24:12,835 INFO [main] Valore conoscerti
+2023-05-05 14:24:12,836 INFO [main] Valore 
+2023-05-05 14:26:12,224 TRACE [main] Hello from Log4j 2
+2023-05-05 14:26:12,227 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:26:12,227 INFO [main] Hello from Log4j 2
+2023-05-05 14:26:12,227 WARN [main] Hello from Log4j 2
+2023-05-05 14:26:12,227 ERROR [main] Hello from Log4j 2
+2023-05-05 14:26:12,227 FATAL [main] Hello from Log4j 2
+2023-05-05 14:26:12,230 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:26:12,232 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:26:12,233 DEBUG [main] Hello World
+2023-05-05 14:26:12,242 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:26:12,242 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:26:12,242 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:26:12,242 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:26:12,242 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:26:12,242 WARN [main] Titolo: L'infinito
+2023-05-05 14:26:12,243 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:26:12,243 WARN [main] Titolo: La divina commedia
+2023-05-05 14:26:12,243 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:26:12,243 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:26:12,243 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:26:12,243 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:26:12,244 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:26:12,244 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:26:12,248 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:26:12,674 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:26:12,735 INFO [main] Valore Ciao
+2023-05-05 14:26:12,735 INFO [main] Valore sono
+2023-05-05 14:26:12,736 INFO [main] Valore Giuseppe
+2023-05-05 14:26:12,736 INFO [main] Valore Verdi
+2023-05-05 14:26:12,736 INFO [main] Valore piacere
+2023-05-05 14:26:12,736 INFO [main] Valore di
+2023-05-05 14:26:12,736 INFO [main] Valore conoscerti
+2023-05-05 14:26:12,737 INFO [main] Valore 
+2023-05-05 14:26:23,546 TRACE [main] Hello from Log4j 2
+2023-05-05 14:26:23,548 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:26:23,548 INFO [main] Hello from Log4j 2
+2023-05-05 14:26:23,549 WARN [main] Hello from Log4j 2
+2023-05-05 14:26:23,549 ERROR [main] Hello from Log4j 2
+2023-05-05 14:26:23,549 FATAL [main] Hello from Log4j 2
+2023-05-05 14:26:23,552 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:26:23,554 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:26:23,554 DEBUG [main] Hello World
+2023-05-05 14:26:23,563 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:26:23,563 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:26:23,563 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:26:23,564 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:26:23,564 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:26:23,564 WARN [main] Titolo: L'infinito
+2023-05-05 14:26:23,564 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:26:23,564 WARN [main] Titolo: La divina commedia
+2023-05-05 14:26:23,564 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:26:23,564 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:26:23,564 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:26:23,564 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:26:23,565 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:26:23,565 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:26:23,569 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:26:24,002 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:26:24,062 INFO [main] Valore Ciao
+2023-05-05 14:26:24,063 INFO [main] Valore sono
+2023-05-05 14:26:24,063 INFO [main] Valore Giuseppe
+2023-05-05 14:26:24,063 INFO [main] Valore Verdi
+2023-05-05 14:26:24,063 INFO [main] Valore piacere
+2023-05-05 14:26:24,064 INFO [main] Valore di
+2023-05-05 14:26:24,064 INFO [main] Valore conoscerti
+2023-05-05 14:26:24,064 INFO [main] Valore 
+2023-05-05 14:26:46,407 TRACE [main] Hello from Log4j 2
+2023-05-05 14:26:46,409 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:26:46,409 INFO [main] Hello from Log4j 2
+2023-05-05 14:26:46,409 WARN [main] Hello from Log4j 2
+2023-05-05 14:26:46,409 ERROR [main] Hello from Log4j 2
+2023-05-05 14:26:46,410 FATAL [main] Hello from Log4j 2
+2023-05-05 14:26:46,413 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:26:46,415 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:26:46,415 DEBUG [main] Hello World
+2023-05-05 14:26:46,424 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:26:46,425 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:26:46,425 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:26:46,425 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:26:46,425 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:26:46,425 WARN [main] Titolo: L'infinito
+2023-05-05 14:26:46,425 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:26:46,425 WARN [main] Titolo: La divina commedia
+2023-05-05 14:26:46,425 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:26:46,425 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:26:46,425 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:26:46,426 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:26:46,426 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:26:46,427 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:26:46,430 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:26:46,861 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:26:46,920 INFO [main] Valore Ciao
+2023-05-05 14:26:46,920 INFO [main] Valore sono
+2023-05-05 14:26:46,921 INFO [main] Valore Giuseppe
+2023-05-05 14:26:46,921 INFO [main] Valore Verdi
+2023-05-05 14:26:46,921 INFO [main] Valore piacere
+2023-05-05 14:26:46,921 INFO [main] Valore di
+2023-05-05 14:26:46,921 INFO [main] Valore conoscerti
+2023-05-05 14:26:46,922 INFO [main] Valore 
+2023-05-05 14:27:48,631 TRACE [main] Hello from Log4j 2
+2023-05-05 14:27:48,633 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:27:48,634 INFO [main] Hello from Log4j 2
+2023-05-05 14:27:48,634 WARN [main] Hello from Log4j 2
+2023-05-05 14:27:48,634 ERROR [main] Hello from Log4j 2
+2023-05-05 14:27:48,634 FATAL [main] Hello from Log4j 2
+2023-05-05 14:27:48,637 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:27:48,639 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:27:48,640 DEBUG [main] Hello World
+2023-05-05 14:27:48,649 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:27:48,649 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:27:48,649 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:27:48,650 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:27:48,650 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:27:48,650 WARN [main] Titolo: L'infinito
+2023-05-05 14:27:48,650 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:27:48,650 WARN [main] Titolo: La divina commedia
+2023-05-05 14:27:48,650 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:27:48,650 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:27:48,650 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:27:48,650 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:27:48,651 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:27:48,651 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:27:48,655 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:27:49,083 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:27:49,145 INFO [main] Valore Ciao
+2023-05-05 14:27:49,145 INFO [main] Valore sono
+2023-05-05 14:27:49,145 INFO [main] Valore Giuseppe
+2023-05-05 14:27:49,145 INFO [main] Valore Verdi
+2023-05-05 14:27:49,145 INFO [main] Valore piacere
+2023-05-05 14:27:49,146 INFO [main] Valore di
+2023-05-05 14:27:49,146 INFO [main] Valore conoscerti
+2023-05-05 14:27:49,146 INFO [main] Valore 
+2023-05-05 14:27:49,482 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:27:49,482 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:27:49,483 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:28:23,655 TRACE [main] Hello from Log4j 2
+2023-05-05 14:28:23,657 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:28:23,657 INFO [main] Hello from Log4j 2
+2023-05-05 14:28:23,657 WARN [main] Hello from Log4j 2
+2023-05-05 14:28:23,657 ERROR [main] Hello from Log4j 2
+2023-05-05 14:28:23,657 FATAL [main] Hello from Log4j 2
+2023-05-05 14:28:23,660 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:28:23,663 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:28:23,663 DEBUG [main] Hello World
+2023-05-05 14:28:23,672 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:28:23,672 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:28:23,672 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:28:23,673 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:28:23,673 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:28:23,673 WARN [main] Titolo: L'infinito
+2023-05-05 14:28:23,673 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:28:23,673 WARN [main] Titolo: La divina commedia
+2023-05-05 14:28:23,673 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:28:23,673 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:28:23,673 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:28:23,673 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:28:23,674 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:28:23,674 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:28:23,678 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:28:24,108 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:28:24,174 INFO [main] Valore Ciao
+2023-05-05 14:28:24,174 INFO [main] Valore sono
+2023-05-05 14:28:24,175 INFO [main] Valore Giuseppe
+2023-05-05 14:28:24,175 INFO [main] Valore Verdi
+2023-05-05 14:28:24,175 INFO [main] Valore piacere
+2023-05-05 14:28:24,175 INFO [main] Valore di
+2023-05-05 14:28:24,175 INFO [main] Valore conoscerti
+2023-05-05 14:28:24,175 INFO [main] Valore 
+2023-05-05 14:28:24,511 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:28:24,512 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:28:24,512 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:29:50,869 TRACE [main] Hello from Log4j 2
+2023-05-05 14:29:50,871 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:29:50,871 INFO [main] Hello from Log4j 2
+2023-05-05 14:29:50,871 WARN [main] Hello from Log4j 2
+2023-05-05 14:29:50,871 ERROR [main] Hello from Log4j 2
+2023-05-05 14:29:50,872 FATAL [main] Hello from Log4j 2
+2023-05-05 14:29:50,875 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:29:50,877 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:29:50,877 DEBUG [main] Hello World
+2023-05-05 14:29:50,886 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:29:50,886 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:29:50,887 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:29:50,887 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:29:50,887 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:29:50,887 WARN [main] Titolo: L'infinito
+2023-05-05 14:29:50,887 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:29:50,887 WARN [main] Titolo: La divina commedia
+2023-05-05 14:29:50,887 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:29:50,887 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:29:50,887 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:29:50,887 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:29:50,888 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:29:50,888 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:29:50,892 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:29:51,302 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:29:51,361 INFO [main] Valore Ciao
+2023-05-05 14:29:51,361 INFO [main] Valore sono
+2023-05-05 14:29:51,361 INFO [main] Valore Giuseppe
+2023-05-05 14:29:51,361 INFO [main] Valore Verdi
+2023-05-05 14:29:51,362 INFO [main] Valore piacere
+2023-05-05 14:29:51,362 INFO [main] Valore di
+2023-05-05 14:29:51,362 INFO [main] Valore conoscerti
+2023-05-05 14:29:51,362 INFO [main] Valore 
+2023-05-05 14:29:51,699 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:29:51,699 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:29:51,699 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:32:02,983 TRACE [main] Hello from Log4j 2
+2023-05-05 14:32:02,986 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:32:02,986 INFO [main] Hello from Log4j 2
+2023-05-05 14:32:02,986 WARN [main] Hello from Log4j 2
+2023-05-05 14:32:02,986 ERROR [main] Hello from Log4j 2
+2023-05-05 14:32:02,986 FATAL [main] Hello from Log4j 2
+2023-05-05 14:32:02,989 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:32:02,991 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:32:02,992 DEBUG [main] Hello World
+2023-05-05 14:32:03,001 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:32:03,001 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:32:03,002 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:32:03,002 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:32:03,002 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:32:03,002 WARN [main] Titolo: L'infinito
+2023-05-05 14:32:03,002 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:32:03,002 WARN [main] Titolo: La divina commedia
+2023-05-05 14:32:03,002 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:32:03,002 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:32:03,002 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:32:03,002 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:32:03,003 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:32:03,003 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:32:03,007 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:32:03,447 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:32:03,508 INFO [main] Valore Ciao
+2023-05-05 14:32:03,508 INFO [main] Valore sono
+2023-05-05 14:32:03,508 INFO [main] Valore Giuseppe
+2023-05-05 14:32:03,509 INFO [main] Valore Verdi
+2023-05-05 14:32:03,509 INFO [main] Valore piacere
+2023-05-05 14:32:03,509 INFO [main] Valore di
+2023-05-05 14:32:03,509 INFO [main] Valore conoscerti
+2023-05-05 14:32:03,509 INFO [main] Valore 
+2023-05-05 14:32:03,697 ERROR [main] Errore nella creazione del mio PDF
+java.io.FileNotFoundException: C:\Users\utente\IdeaProjects\Background-Java\esercitrazionejava\target\classes\IlMioPdf.pdf (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:123) ~[?:?]
+	at it.devlec.pdf.EsempioPDF.creaMioPdf(EsempioPDF.java:35) ~[classes/:?]
+	at it.devlec.EsercitazioneJavaMain.main(EsercitazioneJavaMain.java:29) ~[classes/:?]
+2023-05-05 14:32:03,721 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:32:03,722 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:32:03,722 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:32:20,341 TRACE [main] Hello from Log4j 2
+2023-05-05 14:32:20,344 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:32:20,344 INFO [main] Hello from Log4j 2
+2023-05-05 14:32:20,344 WARN [main] Hello from Log4j 2
+2023-05-05 14:32:20,344 ERROR [main] Hello from Log4j 2
+2023-05-05 14:32:20,345 FATAL [main] Hello from Log4j 2
+2023-05-05 14:32:20,348 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:32:20,350 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:32:20,351 DEBUG [main] Hello World
+2023-05-05 14:32:20,361 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:32:20,361 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:32:20,362 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:32:20,362 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:32:20,362 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:32:20,362 WARN [main] Titolo: L'infinito
+2023-05-05 14:32:20,362 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:32:20,362 WARN [main] Titolo: La divina commedia
+2023-05-05 14:32:20,362 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:32:20,362 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:32:20,362 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:32:20,362 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:32:20,363 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:32:20,364 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:32:20,367 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:32:20,796 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:32:20,856 INFO [main] Valore Ciao
+2023-05-05 14:32:20,856 INFO [main] Valore sono
+2023-05-05 14:32:20,856 INFO [main] Valore Giuseppe
+2023-05-05 14:32:20,857 INFO [main] Valore Verdi
+2023-05-05 14:32:20,857 INFO [main] Valore piacere
+2023-05-05 14:32:20,857 INFO [main] Valore di
+2023-05-05 14:32:20,857 INFO [main] Valore conoscerti
+2023-05-05 14:32:20,857 INFO [main] Valore 
+2023-05-05 14:32:21,197 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:32:21,197 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:32:21,198 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:33:07,352 TRACE [main] Hello from Log4j 2
+2023-05-05 14:33:07,355 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:33:07,355 INFO [main] Hello from Log4j 2
+2023-05-05 14:33:07,355 WARN [main] Hello from Log4j 2
+2023-05-05 14:33:07,355 ERROR [main] Hello from Log4j 2
+2023-05-05 14:33:07,355 FATAL [main] Hello from Log4j 2
+2023-05-05 14:33:07,362 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:33:07,364 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:33:07,365 DEBUG [main] Hello World
+2023-05-05 14:33:07,377 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:33:07,378 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:33:07,378 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:33:07,378 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:33:07,378 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:33:07,378 WARN [main] Titolo: L'infinito
+2023-05-05 14:33:07,378 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:33:07,378 WARN [main] Titolo: La divina commedia
+2023-05-05 14:33:07,379 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:33:07,379 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:33:07,379 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:33:07,379 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:33:07,379 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:33:07,380 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:33:07,384 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:33:07,873 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:33:07,944 INFO [main] Valore Ciao
+2023-05-05 14:33:07,945 INFO [main] Valore sono
+2023-05-05 14:33:07,945 INFO [main] Valore Giuseppe
+2023-05-05 14:33:07,945 INFO [main] Valore Verdi
+2023-05-05 14:33:07,945 INFO [main] Valore piacere
+2023-05-05 14:33:07,945 INFO [main] Valore di
+2023-05-05 14:33:07,946 INFO [main] Valore conoscerti
+2023-05-05 14:33:07,946 INFO [main] Valore 
+2023-05-05 14:33:08,371 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:33:08,371 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:33:08,372 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:35:23,160 TRACE [main] Hello from Log4j 2
+2023-05-05 14:35:23,163 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:35:23,163 INFO [main] Hello from Log4j 2
+2023-05-05 14:35:23,163 WARN [main] Hello from Log4j 2
+2023-05-05 14:35:23,163 ERROR [main] Hello from Log4j 2
+2023-05-05 14:35:23,163 FATAL [main] Hello from Log4j 2
+2023-05-05 14:35:23,166 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:35:23,168 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:35:23,168 DEBUG [main] Hello World
+2023-05-05 14:35:23,178 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:35:23,178 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:35:23,178 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:35:23,178 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:35:23,178 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:35:23,178 WARN [main] Titolo: L'infinito
+2023-05-05 14:35:23,178 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:35:23,178 WARN [main] Titolo: La divina commedia
+2023-05-05 14:35:23,178 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:35:23,179 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:35:23,179 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:35:23,179 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:35:23,179 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:35:23,180 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:35:23,183 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:35:23,596 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:35:23,656 INFO [main] Valore Ciao
+2023-05-05 14:35:23,656 INFO [main] Valore sono
+2023-05-05 14:35:23,656 INFO [main] Valore Giuseppe
+2023-05-05 14:35:23,657 INFO [main] Valore Verdi
+2023-05-05 14:35:23,657 INFO [main] Valore piacere
+2023-05-05 14:35:23,657 INFO [main] Valore di
+2023-05-05 14:35:23,657 INFO [main] Valore conoscerti
+2023-05-05 14:35:23,657 INFO [main] Valore 
+2023-05-05 14:35:23,995 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:35:23,995 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:35:23,996 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:36:08,820 TRACE [main] Hello from Log4j 2
+2023-05-05 14:36:08,822 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:36:08,823 INFO [main] Hello from Log4j 2
+2023-05-05 14:36:08,823 WARN [main] Hello from Log4j 2
+2023-05-05 14:36:08,823 ERROR [main] Hello from Log4j 2
+2023-05-05 14:36:08,823 FATAL [main] Hello from Log4j 2
+2023-05-05 14:36:08,826 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:36:08,828 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:36:08,829 DEBUG [main] Hello World
+2023-05-05 14:36:08,838 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:36:08,838 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:36:08,838 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:36:08,839 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:36:08,839 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:36:08,839 WARN [main] Titolo: L'infinito
+2023-05-05 14:36:08,839 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:36:08,839 WARN [main] Titolo: La divina commedia
+2023-05-05 14:36:08,839 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:36:08,839 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:36:08,839 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:36:08,839 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:36:08,840 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:36:08,840 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:36:08,844 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:36:09,277 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:36:09,345 INFO [main] Valore Ciao
+2023-05-05 14:36:09,346 INFO [main] Valore sono
+2023-05-05 14:36:09,346 INFO [main] Valore Giuseppe
+2023-05-05 14:36:09,346 INFO [main] Valore Verdi
+2023-05-05 14:36:09,346 INFO [main] Valore piacere
+2023-05-05 14:36:09,346 INFO [main] Valore di
+2023-05-05 14:36:09,347 INFO [main] Valore conoscerti
+2023-05-05 14:36:09,347 INFO [main] Valore 
+2023-05-05 14:36:09,526 ERROR [main] Errore nella creazione del mio PDF
+java.io.FileNotFoundException: C:\Users\utente\IdeaProjects\Background-Java\esercitrazionejava\target\classes\IlMioPdf.pdf (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:123) ~[?:?]
+	at it.devlec.pdf.EsempioPDF.creaMioPdf(EsempioPDF.java:35) ~[classes/:?]
+	at it.devlec.EsercitazioneJavaMain.main(EsercitazioneJavaMain.java:29) ~[classes/:?]
+2023-05-05 14:36:09,543 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:36:09,544 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:36:09,544 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:36:53,447 TRACE [main] Hello from Log4j 2
+2023-05-05 14:36:53,449 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:36:53,449 INFO [main] Hello from Log4j 2
+2023-05-05 14:36:53,449 WARN [main] Hello from Log4j 2
+2023-05-05 14:36:53,450 ERROR [main] Hello from Log4j 2
+2023-05-05 14:36:53,450 FATAL [main] Hello from Log4j 2
+2023-05-05 14:36:53,453 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:36:53,455 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:36:53,455 DEBUG [main] Hello World
+2023-05-05 14:36:53,465 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:36:53,465 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:36:53,465 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:36:53,465 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:36:53,465 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:36:53,465 WARN [main] Titolo: L'infinito
+2023-05-05 14:36:53,465 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:36:53,465 WARN [main] Titolo: La divina commedia
+2023-05-05 14:36:53,465 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:36:53,465 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:36:53,466 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:36:53,466 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:36:53,466 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:36:53,467 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:36:53,470 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:36:53,895 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:36:53,960 INFO [main] Valore Ciao
+2023-05-05 14:36:53,961 INFO [main] Valore sono
+2023-05-05 14:36:53,961 INFO [main] Valore Giuseppe
+2023-05-05 14:36:53,961 INFO [main] Valore Verdi
+2023-05-05 14:36:53,961 INFO [main] Valore piacere
+2023-05-05 14:36:53,961 INFO [main] Valore di
+2023-05-05 14:36:53,962 INFO [main] Valore conoscerti
+2023-05-05 14:36:53,962 INFO [main] Valore 
+2023-05-05 14:36:54,306 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:36:54,307 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:36:54,307 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:40:16,043 TRACE [main] Hello from Log4j 2
+2023-05-05 14:40:16,045 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:40:16,045 INFO [main] Hello from Log4j 2
+2023-05-05 14:40:16,045 WARN [main] Hello from Log4j 2
+2023-05-05 14:40:16,045 ERROR [main] Hello from Log4j 2
+2023-05-05 14:40:16,045 FATAL [main] Hello from Log4j 2
+2023-05-05 14:40:16,048 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:40:16,051 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:40:16,051 DEBUG [main] Hello World
+2023-05-05 14:40:16,061 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:40:16,061 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:40:16,061 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:40:16,061 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:40:16,061 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:40:16,061 WARN [main] Titolo: L'infinito
+2023-05-05 14:40:16,061 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:40:16,061 WARN [main] Titolo: La divina commedia
+2023-05-05 14:40:16,061 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:40:16,062 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:40:16,062 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:40:16,062 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:40:16,062 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:40:16,063 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:40:16,066 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:40:16,489 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:40:16,548 INFO [main] Valore Ciao
+2023-05-05 14:40:16,548 INFO [main] Valore sono
+2023-05-05 14:40:16,548 INFO [main] Valore Giuseppe
+2023-05-05 14:40:16,548 INFO [main] Valore Verdi
+2023-05-05 14:40:16,549 INFO [main] Valore piacere
+2023-05-05 14:40:16,549 INFO [main] Valore di
+2023-05-05 14:40:16,549 INFO [main] Valore conoscerti
+2023-05-05 14:40:16,549 INFO [main] Valore 
+2023-05-05 14:40:16,711 ERROR [main] Errore nella creazione del mio PDF
+java.io.FileNotFoundException: C:\Users\utente\IdeaProjects\Background-Java\esercitrazionejava\target\classes\IlMioPdf.pdf (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:123) ~[?:?]
+	at it.devlec.pdf.EsempioPDF.creaMioPdf(EsempioPDF.java:35) ~[classes/:?]
+	at it.devlec.EsercitazioneJavaMain.main(EsercitazioneJavaMain.java:29) ~[classes/:?]
+2023-05-05 14:40:16,733 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:40:16,733 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:40:16,733 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:40:44,924 TRACE [main] Hello from Log4j 2
+2023-05-05 14:40:44,927 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:40:44,927 INFO [main] Hello from Log4j 2
+2023-05-05 14:40:44,927 WARN [main] Hello from Log4j 2
+2023-05-05 14:40:44,927 ERROR [main] Hello from Log4j 2
+2023-05-05 14:40:44,927 FATAL [main] Hello from Log4j 2
+2023-05-05 14:40:44,930 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:40:44,932 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:40:44,932 DEBUG [main] Hello World
+2023-05-05 14:40:44,941 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:40:44,942 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:40:44,942 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:40:44,942 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:40:44,942 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:40:44,942 WARN [main] Titolo: L'infinito
+2023-05-05 14:40:44,942 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:40:44,942 WARN [main] Titolo: La divina commedia
+2023-05-05 14:40:44,942 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:40:44,943 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:40:44,943 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:40:44,943 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:40:44,943 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:40:44,944 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:40:44,947 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:40:45,363 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:40:45,424 INFO [main] Valore Ciao
+2023-05-05 14:40:45,424 INFO [main] Valore sono
+2023-05-05 14:40:45,424 INFO [main] Valore Giuseppe
+2023-05-05 14:40:45,424 INFO [main] Valore Verdi
+2023-05-05 14:40:45,424 INFO [main] Valore piacere
+2023-05-05 14:40:45,425 INFO [main] Valore di
+2023-05-05 14:40:45,425 INFO [main] Valore conoscerti
+2023-05-05 14:40:45,425 INFO [main] Valore 
+2023-05-05 14:40:45,763 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:40:45,763 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:40:45,763 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:41:33,419 TRACE [main] Hello from Log4j 2
+2023-05-05 14:41:33,421 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:41:33,421 INFO [main] Hello from Log4j 2
+2023-05-05 14:41:33,422 WARN [main] Hello from Log4j 2
+2023-05-05 14:41:33,422 ERROR [main] Hello from Log4j 2
+2023-05-05 14:41:33,422 FATAL [main] Hello from Log4j 2
+2023-05-05 14:41:33,425 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:41:33,427 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:41:33,427 DEBUG [main] Hello World
+2023-05-05 14:41:33,436 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:41:33,437 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:41:33,437 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:41:33,437 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:41:33,437 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:41:33,437 WARN [main] Titolo: L'infinito
+2023-05-05 14:41:33,437 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:41:33,437 WARN [main] Titolo: La divina commedia
+2023-05-05 14:41:33,437 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:41:33,437 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:41:33,437 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:41:33,438 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:41:33,438 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:41:33,439 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:41:33,442 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:41:33,866 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:41:33,925 INFO [main] Valore Ciao
+2023-05-05 14:41:33,925 INFO [main] Valore sono
+2023-05-05 14:41:33,926 INFO [main] Valore Giuseppe
+2023-05-05 14:41:33,926 INFO [main] Valore Verdi
+2023-05-05 14:41:33,926 INFO [main] Valore piacere
+2023-05-05 14:41:33,926 INFO [main] Valore di
+2023-05-05 14:41:33,926 INFO [main] Valore conoscerti
+2023-05-05 14:41:33,926 INFO [main] Valore 
+2023-05-05 14:41:34,288 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:41:34,288 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:41:34,289 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:42:05,141 TRACE [main] Hello from Log4j 2
+2023-05-05 14:42:05,144 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:42:05,144 INFO [main] Hello from Log4j 2
+2023-05-05 14:42:05,144 WARN [main] Hello from Log4j 2
+2023-05-05 14:42:05,144 ERROR [main] Hello from Log4j 2
+2023-05-05 14:42:05,144 FATAL [main] Hello from Log4j 2
+2023-05-05 14:42:05,148 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:42:05,150 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:42:05,150 DEBUG [main] Hello World
+2023-05-05 14:42:05,159 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:42:05,160 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:42:05,160 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:42:05,160 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:42:05,160 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:42:05,160 WARN [main] Titolo: L'infinito
+2023-05-05 14:42:05,160 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:42:05,160 WARN [main] Titolo: La divina commedia
+2023-05-05 14:42:05,161 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:42:05,161 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:42:05,161 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:42:05,161 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:42:05,161 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:42:05,162 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:42:05,166 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:42:05,599 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:42:05,658 INFO [main] Valore Ciao
+2023-05-05 14:42:05,659 INFO [main] Valore sono
+2023-05-05 14:42:05,659 INFO [main] Valore Giuseppe
+2023-05-05 14:42:05,659 INFO [main] Valore Verdi
+2023-05-05 14:42:05,659 INFO [main] Valore piacere
+2023-05-05 14:42:05,659 INFO [main] Valore di
+2023-05-05 14:42:05,660 INFO [main] Valore conoscerti
+2023-05-05 14:42:05,660 INFO [main] Valore 
+2023-05-05 14:42:06,011 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:42:06,011 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:42:06,012 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:58:55,422 TRACE [main] Hello from Log4j 2
+2023-05-05 14:58:55,424 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:58:55,424 INFO [main] Hello from Log4j 2
+2023-05-05 14:58:55,424 WARN [main] Hello from Log4j 2
+2023-05-05 14:58:55,424 ERROR [main] Hello from Log4j 2
+2023-05-05 14:58:55,424 FATAL [main] Hello from Log4j 2
+2023-05-05 14:58:55,428 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:58:55,430 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:58:55,430 DEBUG [main] Hello World
+2023-05-05 14:58:55,439 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:58:55,440 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:58:55,440 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:58:55,440 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:58:55,440 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:58:55,440 WARN [main] Titolo: L'infinito
+2023-05-05 14:58:55,440 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:58:55,440 WARN [main] Titolo: La divina commedia
+2023-05-05 14:58:55,440 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:58:55,440 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:58:55,441 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:58:55,441 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:58:55,441 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:58:55,442 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:58:55,445 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:58:55,877 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:58:55,941 INFO [main] Valore Ciao
+2023-05-05 14:58:55,942 INFO [main] Valore sono
+2023-05-05 14:58:55,942 INFO [main] Valore Giuseppe
+2023-05-05 14:58:55,942 INFO [main] Valore Verdi
+2023-05-05 14:58:55,942 INFO [main] Valore piacere
+2023-05-05 14:58:55,942 INFO [main] Valore di
+2023-05-05 14:58:55,942 INFO [main] Valore conoscerti
+2023-05-05 14:58:55,943 INFO [main] Valore 
+2023-05-05 14:58:56,122 ERROR [main] Errore nella creazione del mio PDF
+java.io.FileNotFoundException: C:\Users\utente\IdeaProjects\Background-Java\esercitrazionejava\target\classes\IlMioPdf.pdf (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:123) ~[?:?]
+	at it.devlec.pdf.EsempioPDF.creaMioPdf(EsempioPDF.java:35) ~[classes/:?]
+	at it.devlec.EsercitazioneJavaMain.main(EsercitazioneJavaMain.java:29) ~[classes/:?]
+2023-05-05 14:58:56,141 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:58:56,141 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:58:56,142 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:59:04,091 TRACE [main] Hello from Log4j 2
+2023-05-05 14:59:04,094 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:59:04,094 INFO [main] Hello from Log4j 2
+2023-05-05 14:59:04,094 WARN [main] Hello from Log4j 2
+2023-05-05 14:59:04,094 ERROR [main] Hello from Log4j 2
+2023-05-05 14:59:04,094 FATAL [main] Hello from Log4j 2
+2023-05-05 14:59:04,097 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:59:04,099 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:59:04,100 DEBUG [main] Hello World
+2023-05-05 14:59:04,109 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:59:04,109 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:59:04,110 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:59:04,110 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:59:04,110 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:59:04,110 WARN [main] Titolo: L'infinito
+2023-05-05 14:59:04,110 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:59:04,110 WARN [main] Titolo: La divina commedia
+2023-05-05 14:59:04,110 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:59:04,110 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:59:04,110 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:59:04,111 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:59:04,111 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:59:04,112 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:59:04,115 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:59:04,538 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:59:04,603 INFO [main] Valore Ciao
+2023-05-05 14:59:04,603 INFO [main] Valore sono
+2023-05-05 14:59:04,604 INFO [main] Valore Giuseppe
+2023-05-05 14:59:04,604 INFO [main] Valore Verdi
+2023-05-05 14:59:04,604 INFO [main] Valore piacere
+2023-05-05 14:59:04,604 INFO [main] Valore di
+2023-05-05 14:59:04,604 INFO [main] Valore conoscerti
+2023-05-05 14:59:04,604 INFO [main] Valore 
+2023-05-05 14:59:04,949 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:59:04,949 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:59:04,949 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 14:59:25,430 TRACE [main] Hello from Log4j 2
+2023-05-05 14:59:25,433 DEBUG [main] Hello from Log4j 2
+2023-05-05 14:59:25,433 INFO [main] Hello from Log4j 2
+2023-05-05 14:59:25,433 WARN [main] Hello from Log4j 2
+2023-05-05 14:59:25,433 ERROR [main] Hello from Log4j 2
+2023-05-05 14:59:25,433 FATAL [main] Hello from Log4j 2
+2023-05-05 14:59:25,436 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 14:59:25,438 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 14:59:25,439 DEBUG [main] Hello World
+2023-05-05 14:59:25,448 INFO [main] Autore: Luigi Pirandello
+2023-05-05 14:59:25,448 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 14:59:25,448 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 14:59:25,448 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 14:59:25,448 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 14:59:25,448 WARN [main] Titolo: L'infinito
+2023-05-05 14:59:25,449 INFO [main] Autore: Dante Aligheri
+2023-05-05 14:59:25,449 WARN [main] Titolo: La divina commedia
+2023-05-05 14:59:25,449 INFO [main] Autore: Eugenio Montale
+2023-05-05 14:59:25,449 WARN [main] Titolo: Ossi di seppia
+2023-05-05 14:59:25,449 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 14:59:25,449 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 14:59:25,449 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 14:59:25,450 DEBUG [main] File CSV creato correttamente
+2023-05-05 14:59:25,453 DEBUG [main] Provo a leggere un file excel
+2023-05-05 14:59:25,886 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 14:59:25,944 INFO [main] Valore Ciao
+2023-05-05 14:59:25,945 INFO [main] Valore sono
+2023-05-05 14:59:25,945 INFO [main] Valore Giuseppe
+2023-05-05 14:59:25,945 INFO [main] Valore Verdi
+2023-05-05 14:59:25,945 INFO [main] Valore piacere
+2023-05-05 14:59:25,945 INFO [main] Valore di
+2023-05-05 14:59:25,945 INFO [main] Valore conoscerti
+2023-05-05 14:59:25,946 INFO [main] Valore 
+2023-05-05 14:59:26,282 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 14:59:26,283 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 14:59:26,283 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 15:04:55,472 TRACE [main] Hello from Log4j 2
+2023-05-05 15:04:55,475 DEBUG [main] Hello from Log4j 2
+2023-05-05 15:04:55,475 INFO [main] Hello from Log4j 2
+2023-05-05 15:04:55,475 WARN [main] Hello from Log4j 2
+2023-05-05 15:04:55,475 ERROR [main] Hello from Log4j 2
+2023-05-05 15:04:55,475 FATAL [main] Hello from Log4j 2
+2023-05-05 15:04:55,479 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 15:04:55,481 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 15:04:55,482 DEBUG [main] Hello World
+2023-05-05 15:04:55,491 INFO [main] Autore: Luigi Pirandello
+2023-05-05 15:04:55,491 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 15:04:55,491 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 15:04:55,491 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 15:04:55,492 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 15:04:55,492 WARN [main] Titolo: L'infinito
+2023-05-05 15:04:55,492 INFO [main] Autore: Dante Aligheri
+2023-05-05 15:04:55,492 WARN [main] Titolo: La divina commedia
+2023-05-05 15:04:55,492 INFO [main] Autore: Eugenio Montale
+2023-05-05 15:04:55,492 WARN [main] Titolo: Ossi di seppia
+2023-05-05 15:04:55,492 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 15:04:55,492 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 15:04:55,493 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 15:04:55,493 DEBUG [main] File CSV creato correttamente
+2023-05-05 15:04:55,498 DEBUG [main] Provo a leggere un file excel
+2023-05-05 15:04:55,948 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 15:04:56,012 INFO [main] Valore Ciao
+2023-05-05 15:04:56,012 INFO [main] Valore sono
+2023-05-05 15:04:56,012 INFO [main] Valore Giuseppe
+2023-05-05 15:04:56,013 INFO [main] Valore Verdi
+2023-05-05 15:04:56,013 INFO [main] Valore piacere
+2023-05-05 15:04:56,013 INFO [main] Valore di
+2023-05-05 15:04:56,013 INFO [main] Valore conoscerti
+2023-05-05 15:04:56,013 INFO [main] Valore 
+2023-05-05 15:04:56,376 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 15:04:56,376 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 15:04:56,376 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
+2023-05-05 15:11:13,635 TRACE [main] Hello from Log4j 2
+2023-05-05 15:11:13,638 DEBUG [main] Hello from Log4j 2
+2023-05-05 15:11:13,638 INFO [main] Hello from Log4j 2
+2023-05-05 15:11:13,638 WARN [main] Hello from Log4j 2
+2023-05-05 15:11:13,638 ERROR [main] Hello from Log4j 2
+2023-05-05 15:11:13,638 FATAL [main] Hello from Log4j 2
+2023-05-05 15:11:13,642 FATAL [main] Somma tra 5 e 50 è 55
+2023-05-05 15:11:13,644 FATAL [main] Divisione tra 4.0 e 5.5 è 0.7272727272727273
+2023-05-05 15:11:13,645 DEBUG [main] Hello World
+2023-05-05 15:11:13,654 INFO [main] Autore: Luigi Pirandello
+2023-05-05 15:11:13,654 WARN [main] Titolo: Uno, nessuno e centomila
+2023-05-05 15:11:13,654 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 15:11:13,654 WARN [main] Titolo: Canti di Castelveccchio
+2023-05-05 15:11:13,654 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 15:11:13,654 WARN [main] Titolo: L'infinito
+2023-05-05 15:11:13,654 INFO [main] Autore: Dante Aligheri
+2023-05-05 15:11:13,655 WARN [main] Titolo: La divina commedia
+2023-05-05 15:11:13,655 INFO [main] Autore: Eugenio Montale
+2023-05-05 15:11:13,655 WARN [main] Titolo: Ossi di seppia
+2023-05-05 15:11:13,655 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 15:11:13,655 WARN [main] Titolo: Allegria di naufragi
+2023-05-05 15:11:13,656 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 15:11:13,656 DEBUG [main] File CSV creato correttamente
+2023-05-05 15:11:13,659 DEBUG [main] Provo a leggere un file excel
+2023-05-05 15:11:14,080 DEBUG [main] using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2023-05-05 15:11:14,135 INFO [main] Valore Ciao
+2023-05-05 15:11:14,136 INFO [main] Valore sono
+2023-05-05 15:11:14,136 INFO [main] Valore Giuseppe
+2023-05-05 15:11:14,136 INFO [main] Valore Verdi
+2023-05-05 15:11:14,136 INFO [main] Valore piacere
+2023-05-05 15:11:14,136 INFO [main] Valore di
+2023-05-05 15:11:14,136 INFO [main] Valore conoscerti
+2023-05-05 15:11:14,137 INFO [main] Valore 
+2023-05-05 15:11:14,476 INFO [main] JSON {"eta":"22","nome":"Tamborra","email":"giovannonetamb22@gmail.com","citta":"Foggia"}
+2023-05-05 15:11:14,476 INFO [main] JSON {"eta":"26","cognome":"Sigrisi","nome":"Valerio","email":"val.sig026@libero.it","citta":"Lecce"}
+2023-05-05 15:11:14,477 INFO [main] JSON {"eta":"23","Nome":"Marco","Cognome":"Tria","email":"marco.tria00@hotmail.it","citta":"Bari"}
