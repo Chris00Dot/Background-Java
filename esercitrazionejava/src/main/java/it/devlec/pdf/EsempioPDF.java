@@ -42,6 +42,7 @@ public class EsempioPDF {
 
             document.add(chunk);
 
+
             PdfPTable table = new PdfPTable(3);
             addTableHeader(table);
             addRows(table);
